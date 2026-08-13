@@ -121,7 +121,9 @@ https://hls.myp2p.se/dl/3-L2ZQJk2FM3uZpUubH_7C-3WSa.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Al_Hadath_logo.svg/512px-Al_Hadath_logo.svg.png" tvg-id=",alhadath",alhadath
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="Aljazera",Aljazera
+#EXTINF :-1 tvg-id="ALJAZEERA",ALJAZEERA 
+https://live-hls-web-aja.getaj.net/AJA/05.m3u8 
+#EXTINF:-1 tvg-id="Aljazera2",Aljazera2
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/06.m3u8
 #EXTINF:-1 tvg-id="aljazera doc",Aljazera
 https://live-hls-web-ajd-ll-bp.thehlive.com/AJD/05.m3u8
