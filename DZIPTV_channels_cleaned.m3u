@@ -129,3 +129,130 @@ https://live-hls-web-aja2-gcp.thehlive.com/AJA2/06.m3u8
 https://live-hls-web-ajd-ll-bp.thehlive.com/AJD/05.m3u8
 #EXTINF:-1 tvg-id="mobachir",Aljazera mobachir
 https://live-hls-web-ajm-ll-bp.thehlive.com/AJM/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| ARRIADIA FHD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/82588.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| ARRIADIA TNT HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/87226.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| ZAHRA TV HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/95476.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| 2M MAROC HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/79706.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| AL OULA
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/79707.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| 2M MAROC
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/174.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| M24
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/175.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| AL OULA HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/176.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| ARRABIA HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/177.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| AL MAGHRIBIA HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/178.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| ASSADISSA  HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/179.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| ARRIADIA HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/180.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| TAMAZIGHT HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/181.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| MEDI 1 TV
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/182.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| AFLAM 7
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/184.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| TELE MAROC
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/185.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| MEDI 1 AFRIQUE 
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/186.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| LAAYOUNE 
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/187.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",               •●★MAROC المغرب★●•
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/1908.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| ENTV ALGERIE
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/188.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| CANAL ALGERIE
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/209.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| ALGERIE 3
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/210.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| TV CORAN
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/211.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| SAMIRA TV
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/212.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| BAHIA TV 
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/213.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| EL DJAZAIRIA ONE
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/214.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| AL FADJR
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/215.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| ECHOUROUK TV
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/216.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| ECHOUROUK NEWS
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/217.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| DZAIR TV
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/228.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| EL BILAD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/229.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| ENNAHAR ALGERIE
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/230.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| BEUR TV
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/232.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| BERBERE MUSIC
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/233.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| BERBERE TV
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/234.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| BERBERE JEUNESSE
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/235.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| EL HEDDAF
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/236.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| DZAIR 24
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/237.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| DZAIR NEWS
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/239.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| ECHOUROUK BENNA
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/240.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| AL HAYAT
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/242.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| ALGERIE 1
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/496.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| NUMIDIA NEWS
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/510.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.TUN|| TUNISIA NATIONAL 1
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/244.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.TUN|| TUNISIA NATIONAL 2
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/245.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.TUN|| AL HIWAR ETTOUNSI
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/246.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.TUN|| NESSMA
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/247.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.TUN|| HANNIBAL
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/248.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.TUN|| CARTHAGE + 
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/249.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.TUN|| TELVZA TV
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/251.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.TUN|| ZAYTOONA HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/252.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.TUN|| TOUNESNA
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/255.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.TUN|| AL MUSTAKILLAH
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/256.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.TUN|| AL JANOUBIA TV
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/257.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.TUN|| TUNISNA TV
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/258.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ", ||AR.TUN|| ATTESSIA HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/2694.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.TUN|| ZAYTOUNA TV 
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/2695.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.TUN|| SAHEL TV
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/2696.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.TUN|| WATANIA 1 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/2697.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.TUN|| WATANIA 2 HD
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/2698.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",               •●★TUNISIE تونس★●•
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/9653.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",               •●★ALGERIE الجزائر★●•
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/9654.ts
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| ARRIADIA (1080)
+http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/54446.ts
