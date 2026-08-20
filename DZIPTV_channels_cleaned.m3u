@@ -1,6 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BeIN_Sports.svg/512px-BeIN_Sports.svg.png" tvg-id="Beinsport",Beinsport MAX1 (1080p)
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| ENTV ALGERIE
+http://ar.ycncdn.online/live/016/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BeIN_Sports.svg/512px-BeIN_Sports.svg.png" tvg-id="Beinsport_ar",Beinsport
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mix_Bel_Araby_logo.png/512px-Mix_Bel_Araby_logo.png" tvg-id="MixBelAraby",MixBelAraby
