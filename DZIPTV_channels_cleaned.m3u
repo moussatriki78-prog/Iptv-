@@ -1,5 +1,80 @@
-#EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.ALG|| ENTV ALGERIE
-http://ar.ycncdn.online/live/016/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",DZ - Chebab TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1813333.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",DZ - Algeria Salam TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1813332.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",DZ ▎ ALGERIAN 4KIDS HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1813331.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| PROGRAMME NATIONAL
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/7749.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| ALGERIE 2
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/7748.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| Algeria ONE TV ᵁᴴᴰ
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/984547.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| Algeria ONE TV ᴴᴰ
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/984627.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| Algerie 3
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/7747.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| Algerie 4
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/7746.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| Algerie 5
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/7745.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| Algerie 6
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/54836.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| Al magharibia tv
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/131981.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| TV8 EDHAKIRA
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/91129.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| TV7 ELMAARIFA
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/91128.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| Samira TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/7744.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| AL ANIS TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/150486.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| EL HEDDAF TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/7731.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| Echorouk TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/7740.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| El Djazair N1
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/100637.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| EL FADJR TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/233782.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| EL FADJR TV DZ
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/73519.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| Echorouk NEWS
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/7741.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| ENNAHAR TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/7739.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| Bahia TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/7736.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| EL BILAD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/7733.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| Dzair News
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/7728.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| HAYAT
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/12357.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| ELWATANIA TV ALGERIA
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/141594.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| berbere tv
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/7720.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| EL DJAZAIRIA TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/7732.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| Algeria TV Coran Algerie 5
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/255754.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG|  Zahra TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/255880.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| AL24 News
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/201253.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG|Algeria N1
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/201421.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| A3 ᵁᴴᴰ
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/50182.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| ENTV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1389279.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| ALSahraa
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/170305.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",|ALG| ECHOROUK DZ ᵁᴴᴰ
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/50216.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BeIN_Sports.svg/512px-BeIN_Sports.svg.png" tvg-id="Beinsport_ar",Beinsport
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mix_Bel_Araby_logo.png/512px-Mix_Bel_Araby_logo.png" tvg-id="MixBelAraby",MixBelAraby
@@ -10,112 +85,125 @@ https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8
 https://dwdwdwqq.s3.eu-north-1.amazonaws.com/time2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/512px-Football_%28soccer_ball%29.svg.png" tvg-id="Koora_live_2",Koora_live_2
 https://esd.zenithez.website/ypmf1_360/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/512px-Football_%28soccer_ball%29.svg.png" tvg-id="Koora_live_3",Koora_live_3
-https://s3.us-east-1.amazonaws.com/cbb100/live/stream/720p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BeIN_Sports.svg/512px-BeIN_Sports.svg.png" tvg-id="Beinsport 1",Beinsport_1
-https://hls.myp2p.se/dl/mY9ammK3EL9huxT99Ydddqwez-d.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BeIN_Sports.svg/512px-BeIN_Sports.svg.png" tvg-id="Beinsport_2",Beinsport_2
-https://hls.myp2p.se/dl/qcTSt253VgU-AO54hcexdb_6uy4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BeIN_Sports.svg/512px-BeIN_Sports.svg.png" tvg-id="Beinsport_3",Beinsport_3
-https://hls.myp2p.se/dl/5G52L7CryS02jifmYD7N7EvKyv1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BeIN_Sports.svg/512px-BeIN_Sports.svg.png" tvg-id="Beinsport_4",Beinsport_4
-https://hls.myp2p.se/dl/7Zq-xu7TtK6Dne6Ga-K0BYNNu26.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BeIN_Sports.svg/512px-BeIN_Sports.svg.png" tvg-id="Beinsport_5",Beinsport_5
-https://hls.myp2p.se/dl/0h0Jcoy8GkdCp8pufeaMRbXStDb.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BeIN_Sports.svg/512px-BeIN_Sports.svg.png" tvg-id="Beinsport_6",Beinsport_6
-https://hls.myp2p.se/dl/rfYVVvfcmUv1iH7Y46_N_9rp-29.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BeIN_Sports.svg/512px-BeIN_Sports.svg.png" tvg-id="Beinsport_7",Beinsport_7
-https://hls.myp2p.se/dl/J0atOVYI5vB0Kl7V6-mvy27uXQf.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BeIN_Sports.svg/512px-BeIN_Sports.svg.png" tvg-id="Beinsport_8",Beinsport_8
-https://hls.myp2p.se/dl/XcD4wHN0CD4wSVCW9lqSvhp6yAc.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Abu_Dhabi_Sports.png/512px-Abu_Dhabi_Sports.png" tvg-id="AD sport 1 premium",AD sport 1 premium
-https://hls.myp2p.se/dl/VwxLlcQWxlZtoPQSoMnrG1cUP48.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Abu_Dhabi_Sports.png/512px-Abu_Dhabi_Sports.png" tvg-id="AD stream 2 premium",AD sport 2 premium
-https://hls.myp2p.se/dl/luYK5R7gIL12wXCiDnZCSPao_o6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BeIN_Sports.svg/512px-BeIN_Sports.svg.png" tvg-id="Beinsport_1_france",Beinsport_1_france
-https://hls.myp2p.se/dl/9g7i2JBeb8FZr08pgappQULm_Ya.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BeIN_Sports.svg/512px-BeIN_Sports.svg.png" tvg-id="Beinsport_2_france",Beinsport_2_france
-https://hls.myp2p.se/dl/sTN_4sQ5ZjXSLBfddt4lhpTkPt6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BeIN_Sports.svg/512px-BeIN_Sports.svg.png" tvg-id="Beinsport_3_france",Beinsport_3_france
-https://hls.myp2p.se/dl/ckhNUS-SY6ZHb0goTIswWEu0P58.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RMC_Sport.svg/512px-RMC_Sport.svg.png" tvg-id="RMC-SPORT-1",RMC-SPORT-1
-https://hls.myp2p.se/dl/JrBIEm29yl24g_0-Qlfo6OFkMc0.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RMC_Sport.svg/512px-RMC_Sport.svg.png" tvg-id="RMC-SPORT-2",RMC-SPORT-2
-https://hls.myp2p.se/dl/tfTpKyW4VBpDlVU9I9eNOnobrIf.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cosmote_Sport.png/512px-Cosmote_Sport.png" tvg-id="co-sport 1",co-sport 1
-https://hls.myp2p.se/dl/NtpUtEUwsXSwtwW-c3WPJAsxNf5.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cosmote_Sport.png/512px-Cosmote_Sport.png" tvg-id="co-sport 2",co-sport2
-https://hls.myp2p.se/dl/AD6Ziyk-raWqpv9ANs_ICrzS6x5.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cosmote_Sport.png/512px-Cosmote_Sport.png" tvg-id="co-sport 3",co-sport 3
-https://hls.myp2p.se/dl/B-5-lwmyyFCBAw9KarXXlbbmeRf.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cosmote_Sport.png/512px-Cosmote_Sport.png" tvg-id="co-sport 4",co-sport 4
-https://hls.myp2p.se/dl/ndjtvUR9E2OkvsmpNO1dJb9vfE2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cosmote_Sport.png/512px-Cosmote_Sport.png" tvg-id="co-sport 5",co-sport 5
-https://hls.myp2p.se/dl/81buK_tz9FRbjrLcNL1XIaZ8Kcc.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cosmote_Sport.png/512px-Cosmote_Sport.png" tvg-id="co-sport 6",co-sport 5
-https://hls.myp2p.se/dl/bWWV2oJrJmnCjh6MuGeSojZ6Cab.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nova_Sports_logo.png/512px-Nova_Sports_logo.png" tvg-id="Nova Sports",Nova Sports 1
-https://hls.myp2p.se/dl/uB584P8a49vfwYhzpjuXdN8r6W3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nova_Sports_logo.png/512px-Nova_Sports_logo.png" tvg-id="Nova Sports",Nova Sports 2
-https://hls.myp2p.se/dl/RoXVAAre639slFns2k5hlAN9__1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nova_Sports_logo.png/512px-Nova_Sports_logo.png" tvg-id="Nova Sports",Nova Sports 3
-https://hls.myp2p.se/dl/_JuQcYfbIQxBXhpGsOJ8_BkGD1f.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nova_Sports_logo.png/512px-Nova_Sports_logo.png" tvg-id="Nova Sports4",Nova Sports4
-https://hls.myp2p.se/dl/2IzzLKM5v36mClN22JAbzPuqW31.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nova_Sports_logo.png/512px-Nova_Sports_logo.png" tvg-id="Nova Sports 5",Nova Sports 5
-https://hls.myp2p.se/dl/j4vixmBzSuRXK3PCyain178Cghf.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nova_Sports_logo.png/512px-Nova_Sports_logo.png" tvg-id="Nova Sports4 Premier League",Nova Sports Premier League
-https://hls.myp2p.se/dl/3aoYMFgplmE111_YFcY2SCOKyQf.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Eleven_Sports_Logo.png/512px-Eleven_Sports_Logo.png" tvg-id="Eleven Sports1",Eleven Sports1
-https://hls.myp2p.se/dl/-3fHQBttIZuAW1Ivg-fPSBxG6p7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Eleven_Sports_Logo.png/512px-Eleven_Sports_Logo.png" tvg-id="Eleven Sports2",Eleven Sports2
-https://hls.myp2p.se/dl/tQnhmhaYYl4gDhs5ZoUzxJuyyA3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Eleven_Sports_Logo.png/512px-Eleven_Sports_Logo.png" tvg-id="Eleven Sports3",Eleven Sports3
-https://hls.myp2p.se/dl/LNz8pbj2bK_vdxEN8DrF5Em9vF6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Eleven_Sports_Logo.png/512px-Eleven_Sports_Logo.png" tvg-id="Eleven Sports4",Eleven Sports4
-https://hls.myp2p.se/dl/oT6u88VkooHe7iNj0TTenY3YDp3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sportdigital_logo.png/512px-Sportdigital_logo.png" tvg-id="Sportdigital1",Sportdigital1
-https://hls.myp2p.se/dl/7Etk45JfFvXVS0LgnczZ1ybDamb.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/512px-Football_%28soccer_ball%29.svg.png" tvg-id="On time Sports", On time Sports
-https://hls.myp2p.se/dl/PW0cNvzfFYisnapaG1PcYsDeVW3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_Foot.svg/512px-Canal%2B_Foot.svg.png" tvg-id="canal+ foot",canal+ foot
-https://hls.myp2p.se/dl/w96kGhMZTUXjrO5lO2dagIvFHve.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Canal%2B_Sport.svg/512px-Canal%2B_Sport.svg.png" tvg-id="canal+ sport",canal+ sport
-https://hls.myp2p.se/dl/B2hc_dWSDWzOJY0_G4nfV8se6aa.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Digi_Sport_logo.png/512px-Digi_Sport_logo.png" tvg-id="digi sport 1",digi sport1
-https://hls.myp2p.se/dl/8grg1MKrhcO20aqMQprNNRXpmY7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Digi_Sport_logo.png/512px-Digi_Sport_logo.png" tvg-id="digi sport 2",digi sport 2
-https://hls.myp2p.se/dl/rYjzx6uCAm-hCKDWQN5YWEgkfJf.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Digi_Sport_logo.png/512px-Digi_Sport_logo.png" tvg-id="digi sport 3 ",digi sport 3
-https://hls.myp2p.se/dl/XOYQxrG1GdYOe895c-xPlIwMBY7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/SuperSport_logo.png/512px-SuperSport_logo.png" tvg-id="super sport",super sport
-https://hls.myp2p.se/dl/yzYUJYZU4I8J_D_l5tmgydKOc9a.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/SuperSport_logo.png/512px-SuperSport_logo.png" tvg-id="super sport liga",super sport liga
-https://hls.myp2p.se/dl/GlTjSHFTGoVHtOiuKdrpk7KGd03.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/DAZN_logo.svg/512px-DAZN_logo.svg.png" tvg-id=",DAZN 1",DAZN 1
-https://hls.myp2p.se/dl/gtVEnyP4Zyk2oqqrvYJiZKQfiL4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/DAZN_logo.svg/512px-DAZN_logo.svg.png" tvg-id=",DAZN 2",DAZN 1
-https://hls.myp2p.se/dl/eAqZPH6o0aQo8PIEvMGsVMxjSE7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/DAZN_logo.svg/512px-DAZN_logo.svg.png" tvg-id=",DAZN 3",DAZN 3
-https://hls.myp2p.se/dl/slRLd0WSJMN49-2EMOa8r9vUIi8.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/DAZN_logo.svg/512px-DAZN_logo.svg.png" tvg-id=",DAZN 4",DAZN 4
-https://hls.myp2p.se/dl/pTJdjQZgbuDS3eVdyeIqbWrHdu9.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Canal%2B_Sport.svg/512px-Canal%2B_Sport.svg.png" tvg-id=",canal extra 1",canal+exta 1
-https://hls.myp2p.se/dl/LUu1dGFnUf9PptEenhC_Fd4z0V5.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/512px-ESPN_logo.svg.png" tvg-id=",espn",espn
-https://hls.myp2p.se/dl/_SOiflMWHreqeeA0G_TuSOPmDY3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/DirecTV_Sports_Latin_America_logo.svg/512px-DirecTV_Sports_Latin_America_logo.svg.png" tvg-id=",direct tv sport",direct tv sport
-https://hls.myp2p.se/dl/75bhr3F5_kbwAjfi3V-Owqhn969.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" tvg-id=",tyc sport",tyc sport
-https://hls.myp2p.se/dl/5FPgvWAAPvKpqcjqYFeVJvV5Ma2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TUDN_logo.svg/512px-TUDN_logo.svg.png" tvg-id=",tudn",tudn
-https://hls.myp2p.se/dl/2KynyuoBBdE_BV5Nw-02wB_XZr0.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/TF1_logo_2021.svg/512px-TF1_logo_2021.svg.png" tvg-id=",TF1",TF1
-https://hls.myp2p.se/dl/limTFtOOup1uZsSnF-czYld4B4d.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/France_2_2018.svg/512px-France_2_2018.svg.png" tvg-id=",frace 2",frace 2
-https://hls.myp2p.se/dl/DjYRy0xv693aSd6N85N9vD20tp8.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/France_4_2018.svg/512px-France_4_2018.svg.png" tvg-id=",france 4",france 4
-https://hls.myp2p.se/dl/3-L2ZQJk2FM3uZpUubH_7C-3WSa.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports News HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/28939.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports Global HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/28938.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN. ULTRA UHD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/312095.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 HD BEE TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/108161.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 APPEL
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1121789.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 1 TOD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/272468.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/2.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 HD BEE TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/108162.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 APPEL
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1121790.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 2 TOD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/272467.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 3 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/4.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 3 HD BEEE TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/108164.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 3 APPEL
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1121791.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 3 TOD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/272465.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/5.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD BEE TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/108165.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 APPEL
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1121792.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 4 TOD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/272464.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 5 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/6.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 5 HD BEE TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/108166.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 5 APPEL
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1121793.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 5 TOD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/272463.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 6 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/7.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 6 HD BEE TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/108167.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 6 APPEL
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1121794.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 6 TOD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/272462.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 7 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/8.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 7 HD BEE TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/108168.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 7 APPEL
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1121795.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 7 TOD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/272461.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 8 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/9.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 8 HD BEE TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/108169.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 8 APPEL
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1121796.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 8 TOD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/272460.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 9 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/10.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 9 ᴴᴰ
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/578836.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 9 HD BEE TV
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/108170.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 9 APPEL
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1121797.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 9 TOD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/272459.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 1 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/117124.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 1 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/117125.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 2 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/117129.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 2 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/117130.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 3 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/3.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XSTRA 3 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/108163.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 4 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1572902.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 5 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1572906.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 6 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1572910.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 7 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1572914.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 8 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1572918.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 9 HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1572922.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 EN HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/2531.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 EN HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/10369.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 UHD FR
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/14.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 HD FR
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/11016.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 UHD FR
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/15.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 HD FR
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/11017.ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports Nba HD
+http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/3845.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Al_Arabiya_logo.svg/512px-Al_Arabiya_logo.svg.png" tvg-id=",alabia",alabia
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Al_Hadath_logo.svg/512px-Al_Hadath_logo.svg.png" tvg-id=",alhadath",alhadath
