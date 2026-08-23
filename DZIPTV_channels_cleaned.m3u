@@ -13,6 +13,10 @@ https://live-hls-web-aja2-gcp.thehlive.com/AJA2/06.m3u8
 https://live-hls-web-ajd-ll-bp.thehlive.com/AJD/05.m3u8
 #EXTINF:-1 tvg-id="mobachir",Aljazera mobachir
 https://live-hls-web-ajm-ll-bp.thehlive.com/AJM/index.m3u8
+#EXTINF:-1 tvg-id="ROTANA CINEMA",ROTANA CINEMA 
+http://185.9.2.18/chid_288/index.m3u8
+#EXTINF:-1 tvg-id="ROTANA CINEMA 2",ROTANA CINEMA 2
+http://185.9.2.18/chid_290/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| ARRIADIA FHD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/82588.ts
