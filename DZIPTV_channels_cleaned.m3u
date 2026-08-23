@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="|AR| ✪ ALGERIA",DZ - Chebab TV
-http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1813333.ts
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",DZ - NATIONAL GO AD 
+http://185.9.2.18/chid_597/index.m3u8
 #EXTINF:-1 group-title="|AR| ✪ ALGERIA",DZ - Algeria Salam TV
 http://mh.smpy24.live:80/live/Bengamenbukinafaso2026/msvrpi45e1/1813332.ts
 #EXTINF:-1 group-title="|AR| ✪ ALGERIA",DZ ▎ ALGERIAN 4KIDS HD
@@ -457,17 +457,17 @@ http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/6943.ts
 #EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",||AR.MBC|| MBC 1 HD 
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/149.ts
 #EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",||AR.MBC|| MBC 2 HD 
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/150.ts
+http://185.9.2.18/chid_375/index.m3u8
 #EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",||AR.MBC|| MBC 3 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/151.ts
+http://185.9.2.18/chid_376/index.m3u8
 #EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",||AR.MBC|| MBC 4 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/152.ts
+http://185.9.2.18/chid_377/index.m3u8
 #EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",||AR.MBC|| MBC 5 HD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/153.ts
 #EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",||AR.MBC|| MBC ACTION HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/154.ts
+http://185.9.2.18/chid_378/index.m3u8
 #EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",||AR.MBC|| MBC MAX HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/169.ts
+http://185.9.2.18/chid_379/index.m3u8
 #EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",||AR.MBC|| MBC MASR HD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/170.ts
 #EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",||AR.MBC|| MBC DRAMA HD
