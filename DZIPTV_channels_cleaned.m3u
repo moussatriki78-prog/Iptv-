@@ -339,6 +339,20 @@ http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7507.ts
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7508.ts
 #EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",||AR.LIBAN|| AL MAYADEN TV HD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/7510.ts
+#EXTM3U
+#EXTINF:-1,Sport TV 1
+http://94.130.32.19:8080/sporttv1/index.m3u8
+#EXTINF:-1,Sport TV 2
+http://94.130.32.19:8080/sporttv2/index.m3u8
+#EXTINF:-1,Sport TV 3
+http://94.130.32.19:8080/sporttv3/index.m3u8
+#EXTINF:-1,Sport TV 4
+http://94.130.32.19:8080/sporttv4/index.m3u8
+#EXTINF:-1,Sport TV 5
+http://94.130.32.19:8080/sporttv5/index.m3u8
+#EXTINF:-1,Sport TV 6
+http://94.130.32.19:8080/sporttv6/index.m3u8
+
 #EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",               •●★MUSIC موسيقى★●•
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/9643.ts
 #EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",               •●★KIDS أطفال★●•
