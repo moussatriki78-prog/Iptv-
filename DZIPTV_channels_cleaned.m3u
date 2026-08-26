@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="|AR| ✪ ALGERIA",DZ - NATIONAL GO AD 
+#EXTINF:-1 group-title="|AR| ✪ ALGERIA",DZIPTV - NATIONAL GO AD 
 http://185.9.2.18/chid_597/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Al_Arabiya_logo.svg/512px-Al_Arabiya_logo.svg.png" tvg-id=",alabia",alabia
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
@@ -17,6 +17,14 @@ https://live-hls-web-ajm-ll-bp.thehlive.com/AJM/index.m3u8
 http://185.9.2.18/chid_288/index.m3u8
 #EXTINF:-1 tvg-id="ROTANA CINEMA 2",ROTANA CINEMA 2
 http://185.9.2.18/chid_290/index.m3u8
+#EXTINF:-1 tvg-id='MBC2",MBC2
+http://185.9.2.18/chid_375/index.m3u8
+#EXTINF:-1 tvg-id='MBC MAX",MBC MAX
+http://185.9.2.18/chid_379/index.m3u8
+#EXTINF:-1 tvg-id='MBC ACTION",MBC ACTION 
+http://185.9.2.18/chid_378/index.m3u8
+#EXTINF:-1 tvg-id='ROTANA CINEMA",ROTANA  CINEMA 
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| ARRIADIA FHD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/82588.ts
@@ -352,364 +360,47 @@ http://94.130.32.19:8080/sporttv4/index.m3u8
 http://94.130.32.19:8080/sporttv5/index.m3u8
 #EXTINF:-1,Sport TV 6
 http://94.130.32.19:8080/sporttv6/index.m3u8
-
-#EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",               •●★MUSIC موسيقى★●•
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/9643.ts
-#EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",               •●★KIDS أطفال★●•
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/9644.ts
-#EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",               •●★MUSIC موسيقى★●•
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/9645.ts
-#EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",               •●★FILM أفلام★●•
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/9646.ts
-#EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",               •●★LEBANON لبنان★●•
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/9647.ts
-#EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",               •●★NEWS الأخبار★●•
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/9648.ts
-#EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",•●★BEIN ARABE  بين عربية ★●•
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/9649.ts
-#EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",||AR.SYR|| SYRIA DRAMA HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/52366.ts
-#EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",||AR.SYR|| SYRIA LKHBARIA hd
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/52367.ts
-#EXTINF:-1 group-title="ARABES CHANNELS / قنوات عربيه",||AR.SYR|| SYRIA HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/52368.ts
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Al Nahar Algerie
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/1988
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Al Nahar Algerie TNT
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/38658
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Samira TV HD
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/1995
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Samira TV
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/7303
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Algerie 1
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/7605
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Algerie 1 TNT
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/38660
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Algerie 2 Canal
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/6399
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Algerie 3
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/6400
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Algeria 4
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/7604
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Algerie 5 Quoran
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/25046
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Algeria 6
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/38657
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Algeria 7
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/58282
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Algerie 8
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/59514
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Echourouk TV HD
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/9233
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Echorouk News
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/7302
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Bahia TV
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/3074
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Algeria CNA
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/1074
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: AL HEDDAF HD
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/6406
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Dzair TV
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/38662
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Nedjma
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/11894
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: HAYAT TV
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/38659
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: EL Bilad
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/6401
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Numedia ALGERIE
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/6402
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: BEUR TV
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/6405
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: AWRAAS TV NEWS
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/6408
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Fadjr TV
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/9232
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Berbere TV
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/10717
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: LINA TV
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/58288
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: AL24 News HD
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/69512
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Watania
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/81454
-#EXTINF:0 tvg-id="ext" group-title="ALGERIA",ALG: Zahara TV
-http://revenpro.cc:80/Exbanned1355zse1701/Rtvdzh654/82903
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Abu Dhabi Al Emarat HD" tvg-logo="" group-title="Dubai",Uae: Abu Dhabi Al Emarat HD
-http://nonamevos.com:80/live/109/109/74214.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Abu Dhabi Al Emarat SD" tvg-logo="" group-title="Dubai",Uae: Abu Dhabi Al Emarat SD
-http://nonamevos.com:80/live/109/109/106517.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Abu Dhabi HD" tvg-logo="" group-title="Dubai",Uae: Abu Dhabi HD
-http://nonamevos.com:80/live/109/109/21366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Abu Dhabi SD" tvg-logo="" group-title="Dubai",Uae: Abu Dhabi SD
-http://nonamevos.com:80/live/109/109/50311.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Ajman TV HD" tvg-logo="" group-title="Dubai",Uae: Ajman TV HD
-http://nonamevos.com:80/live/109/109/49578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Al Dhafra" tvg-logo="" group-title="Dubai",Uae: Al Dhafra
-http://nonamevos.com:80/live/109/109/70930.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Al Emarat TV" tvg-logo="" group-title="Dubai",Uae: Al Emarat TV
-http://nonamevos.com:80/live/109/109/41654.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Al Khalij TV" tvg-logo="" group-title="Dubai",Uae: Al Khalij TV
-http://nonamevos.com:80/live/109/109/103792.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Al Wousta from Al Dhaid" tvg-logo="" group-title="Dubai",Uae: Al Wousta from Al Dhaid
-http://nonamevos.com:80/live/109/109/70696.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Alittihad TV" tvg-logo="" group-title="Dubai",Uae: Alittihad TV
-http://nonamevos.com:80/live/109/109/23030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Baynounah" tvg-logo="" group-title="Dubai",Uae: Baynounah
-http://nonamevos.com:80/live/109/109/70759.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Citruss TV" tvg-logo="" group-title="Dubai",Uae: Citruss TV
-http://nonamevos.com:80/live/109/109/7007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Dafrah" tvg-logo="" group-title="Dubai",Uae: Dafrah
-http://nonamevos.com:80/live/109/109/109960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Dubai One" tvg-logo="" group-title="Dubai",Uae: Dubai One
-http://nonamevos.com:80/live/109/109/110979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Dubai TV" tvg-logo="" group-title="Dubai",Uae: Dubai TV
-http://nonamevos.com:80/live/109/109/29850.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Dubai Zaman" tvg-logo="" group-title="Dubai",Uae: Dubai Zaman
-http://nonamevos.com:80/live/109/109/92517.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Fujairah TV" tvg-logo="" group-title="Dubai",Uae: Fujairah TV
-http://nonamevos.com:80/live/109/109/28754.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Hawas TV" tvg-logo="" group-title="Dubai",Uae: Hawas TV
-http://nonamevos.com:80/live/109/109/61967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Majid Kids TV" tvg-logo="" group-title="Dubai",Uae: Majid Kids TV
-http://nonamevos.com:80/live/109/109/108430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Nat Geo Abu Dhabi" tvg-logo="" group-title="Dubai",Uae: Nat Geo Abu Dhabi
-http://nonamevos.com:80/live/109/109/47199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Noor Dubai TV" tvg-logo="" group-title="Dubai",Uae: Noor Dubai TV
-http://nonamevos.com:80/live/109/109/56292.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Sama Dubai" tvg-logo="" group-title="Dubai",Uae: Sama Dubai
-http://nonamevos.com:80/live/109/109/37334.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Sharjah HD" tvg-logo="" group-title="Dubai",Uae: Sharjah HD
-http://nonamevos.com:80/live/109/109/81258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Sharjah Quran HD" tvg-logo="" group-title="Dubai",Uae: Sharjah Quran HD
-http://nonamevos.com:80/live/109/109/31351.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Sharjah Sport HD" tvg-logo="" group-title="Dubai",Uae: Sharjah Sport HD
-http://nonamevos.com:80/live/109/109/96057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Sharqiya from Kalba HD" tvg-logo="" group-title="Dubai",Uae: Sharqiya from Kalba HD
-http://nonamevos.com:80/live/109/109/110065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: SpaceToon TV" tvg-logo="" group-title="Dubai",Uae: SpaceToon TV
-http://nonamevos.com:80/live/109/109/26327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Zee Aflam" tvg-logo="" group-title="Dubai",Uae: Zee Aflam
-http://nonamevos.com:80/live/109/109/69406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae: Zee Alwan" tvg-logo="" group-title="Dubai",Uae: Zee Alwan
-http://nonamevos.com:80/live/109/109/426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae| B4U Aflam âœ¦" tvg-logo="" group-title="Dubai",Uae| B4U Aflam âœ¦
-http://nonamevos.com:80/live/109/109/95850.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uae| B4U Plus HD âœ¦" tvg-logo="" group-title="Dubai",Uae| B4U Plus HD âœ¦
-http://nonamevos.com:80/live/109/109/74036.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC ⓵ 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/1
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC ⓵ HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/33474
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC ⓶ 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/21
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC ⓶ HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/33473
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC ⓷ 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/20
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC ⓷ HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/33472
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC ⓸ 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/19
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC ⓸ HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/33471
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC ⓹ 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/18
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC ⓹ HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/33470
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC IRAQ 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/17
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC IRAQ HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/33469
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC MASER 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/16
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC MASER HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/33468
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC MASER 2 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/15
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC MASER 2 HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/33467
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC DRAMA 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/14
-#EXTINF:0 tvg-id="MBCDrama.net" group-title="MBC 4K ✪ أم بي سي",MBC DRAMA HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/33466
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC DRAMA PLUS 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/13
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC DRAMA PLUS HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/33465
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC MAX 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/11
-#EXTINF:0 tvg-id="MBCMax.net" group-title="MBC 4K ✪ أم بي سي",MBC MAX HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/33463
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC ACTION 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/12
-#EXTINF:0 tvg-id="MBCAction.net" group-title="MBC 4K ✪ أم بي سي",MBC ACTION HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/33464
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC VARIETY 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/44032
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC VARIETY HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/128080
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC BOLLYWOOD 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/9
-#EXTINF:0 tvg-id="MBCBollywood.net" group-title="MBC 4K ✪ أم بي سي",MBC BOLLYWOOD HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/33462
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC WANASAH 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/8
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC WANASAH HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/33461
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC PERSIA 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/6
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC FM 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/10
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC PANORAMA FM 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/7
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC 1 USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165473
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC 2 USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165474
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC 3 USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165475
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC 4 USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165476
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC 5 USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165477
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC MASER USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165478
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC ELIFE USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165479
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC IRAQ USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165480
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC MASER 2 USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165481
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC MAX USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165482
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC DRAMA USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165483
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC DRAMA PLUS USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165484
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC ACTION USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165485
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC VARIETY USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165486
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",MBC BOLLYWOOD USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165487
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",ZEE AFLAM USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165488
-#EXTINF:0 tvg-id="ext" group-title="MBC 4K ✪ أم بي سي",ZEE ALWAN USA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/165489
-
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",✪✪✪✪ MBC VIP ✪✪✪✪
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146583
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC PREMIUM 1 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146561
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC PREMIUM 2 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146562
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC PREMIUIM 3 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146563
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC ONE
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146564
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC TWO
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146565
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC SEVEN
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146566
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC EIGHT
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146567
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC NINE
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146568
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC TEN
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146569
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC MOVIES
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146570
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC ELIFE
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146571
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC POWER
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146572
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MPC POWER + 4k
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146575
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC PLUS
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146576
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC SYRIA
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146577
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC TURKI
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146578
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC GEOGRAPHIC
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146579
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC ZOOM
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146580
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC ANIME
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146581
-#EXTINF:0 tvg-id="ext" group-title="MBC VIP ✪ أم بي سي",MBC TOON
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/146582
-
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",✪✪✪✪ MBC PRIME ✪✪✪✪
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/127206
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC PREMIUM＋4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/64434
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC eLife 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/136642
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC eLife HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/168052
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC STC TV
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/127924
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC PLUS 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/99759
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC TOON 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/99842
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC MIX BEL ARABY
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/128831
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC DREAM
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/128276
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC POWER＋
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/64436
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",ZEE ALWAN HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/58875
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",ZEE AFLAM HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/58876
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC AFLAM 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/144924
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC AFLAM HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/144925
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC MOVIES 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/144926
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC MOVIES HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/144927
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC AL KABEER AWI 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/148117
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC AL KABEER AWI HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/148118
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC MOVIES ACTION 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/168092
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC MOVIES ACTION HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/168093
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC MOVIES THRILLER 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/168094
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC MOVIES THRILLER HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/168095
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC MASRAH MASR 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/168098
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC MASRAH MASR HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/168099
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC RAMADAN2023 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/168108
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC THE GAME 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/168140
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC THE GAME HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/168141
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC MOHAMED ABDOU 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/168146
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC RASHED ALMAJED 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/168147
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC ABDULMAJEED ABDULLAH 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/168148
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC AL ZAEEM 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/135283
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC TASH 4K
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/135284
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC ALZAEEM HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/168152
-#EXTINF:0 tvg-id="ext" group-title="MBC PRIME ✪ أم بي سي برايم",MBC TASH HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/168154
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS NEWS SD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985187&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS GLOBAL SD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985186&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 1 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798828&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 1 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985188&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 2 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798829&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 2 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985189&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 3 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798830&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 3 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985190&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 4 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798831&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 4 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985191&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 5 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798833&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 5 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985192&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 6 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798834&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 6 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985193&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 7 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798835&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 7 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985194&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 8 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798837&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 8 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985195&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 9 SD S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798838&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 9 SD S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985196&extension=ts
 
 #EXTINF:0 tvg-id="ext" group-title="GOBOX ✪ جو بوكس",GOBOX: STARZPLAY SERIES
 http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/150939
@@ -802,29 +493,6 @@ http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/150989
 #EXTINF:0 tvg-id="ext" group-title="GOBOX ✪ جو بوكس",GOBOX: TDC
 http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/150990
 #EXTINF:0 tvg-id="ext" group-title="GOBOX ✪ جو بوكس",GOBOX: GAMETOON HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/150991
-#EXTINF:0 tvg-id="ext" group-title="GOBOX ✪ جو بوكس",GOBOX: MOTORVISION
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/150992
-#EXTINF:0 tvg-id="ext" group-title="GOBOX ✪ جو بوكس",GOBOX: PLANET EARTH
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/150993
-#EXTINF:0 tvg-id="ext" group-title="GOBOX ✪ جو بوكس",GOBOX: TRACE URBAN HD
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/150994
-#EXTINF:0 tvg-id="ext" group-title="GOBOX ✪ جو بوكس",GOBOX: TRACE SPORT STARS
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/150995
-#EXTINF:0 tvg-id="ext" group-title="GOBOX ✪ جو بوكس",GOBOX: DOCUMENTARY BIL ARABIC
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/150996
-#EXTINF:0 tvg-id="ext" group-title="GOBOX ✪ جو بوكس",GOBOX: SMART ZONE
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/150997
-#EXTINF:0 tvg-id="ext" group-title="GOBOX ✪ جو بوكس",GOBOX: STYLE TV
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/150999
-#EXTINF:0 tvg-id="ext" group-title="GOBOX ✪ جو بوكس",GOBOX: HORSE
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/151001
-#EXTINF:0 tvg-id="ext" group-title="GOBOX ✪ جو بوكس",GOBOX: TRAVEL
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/151002
-#EXTINF:0 tvg-id="ext" group-title="GOBOX ✪ جو بوكس",GOBOX: INSIGHT TV
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/151003
-#EXTINF:0 tvg-id="ext" group-title="GOBOX ✪ جو بوكس",GOBOX: LUXE
-http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/151004
 
 #EXTINF:0 tvg-id="ext" group-title="NEWS ✪ قنوات أخبار",✪✪✪✪ NEWS CHANNELS ✪✪✪✪
 http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/65841
