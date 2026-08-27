@@ -25,6 +25,18 @@ http://185.9.2.18/chid_379/index.m3u8
 http://185.9.2.18/chid_378/index.m3u8
 #EXTINF:-1 tvg-id='ROTANA CINEMA",ROTANA  CINEMA 
 https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id='Alwan 2",ALWAN 2
+https://footfytv.pro/proxy/direct?url=https://redperch.space/dramacardinal.php?id=alwan2&_cb=1787860292683
+#EXTINF:-1 tvg-id='Alwan 1",Alwan 1
+https://footfytv.pro/proxy/direct?url=https://redperch.space/dramacardinal.php?id=alwan1&_cb=1787860676890
+#EXTINF:-1 tvg-id='Alwan 3",Alwan 3
+https://footfytv.pro/proxy/direct?url=https://redperch.space/dramacardinal.php?id=alwan3&_cb=1787860760487
+#EXTINF:- tvg-id='Alwan 4",Alwan 4
+https://footfytv.pro/proxy/direct?url=https://redperch.space/dramacardinal.php?id=alwan4&_cb=1787861184522
+#EXTINF:- tvg-id='Alwan 5",Alwan 5
+https://footfytv.pro/proxy/direct?url=https://redperch.space/dramacardinal.php?id=alwan5&_cb=1787861324312
+#EXTINF:- tvg-id='Alwan 6",Alwan 6
+https://footfytv.pro/proxy/direct?url=https://redperch.space/dramacardinal.php?id=alwan6&_cb=1787861402072
 #EXTM3U
 #EXTINF:-1 group-title="CHAINES MAGHREB/ قنوات مغاربية ",||AR.MAR|| ARRIADIA FHD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/82588.ts
@@ -365,36 +377,36 @@ http://94.130.32.19:8080/sporttv6/index.m3u8
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985187&extension=ts
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS GLOBAL SD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985186&extension=ts
-#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 1 SD S1
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798828&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD",┃AR┃ BEIN SPORTS 1 HD S1
+https://sv1.kisskh.su/?sub=91&path=tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 1 SD S3
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985188&extension=ts
-#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 2 SD S1
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798829&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD",┃AR┃ BEIN SPORTS 2 HD S1
+https://sv1.kisskh.su/?sub=92&path=tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 2 SD S3
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985189&extension=ts
-#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 3 SD S1
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798830&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD",┃AR┃ BEIN SPORTS 3 HD S1
+https://sv1.kisskh.su/?sub=93&path=tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 3 SD S3
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985190&extension=ts
-#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 4 SD S1
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798831&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD",┃AR┃ BEIN SPORTS 4 HD S1
+https://sv1.kisskh.su/?sub=94&path=tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 4 SD S3
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985191&extension=ts
-#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 5 SD S1
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798833&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD",┃AR┃ BEIN SPORTS 5 HD S1
+https://sv1.kisskh.su/?sub=95&path=tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 5 SD S3
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985192&extension=ts
-#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 6 SD S1
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798834&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 6 HD S1
+https://sv1.kisskh.su/?sub=98&path=tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 6 SD S3
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985193&extension=ts
-#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 7 SD S1
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798835&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD",┃AR┃ BEIN SPORTS 7 HD S1
+https://sv1.kisskh.su/?sub=97&path=tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 7 SD S3
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985194&extension=ts
-#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 8 SD S1
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=798837&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD",┃AR┃ BEIN SPORTS 8 HD S1
+https://sv1.kisskh.su/?sub=98&path=tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 8 SD S3
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=985195&extension=ts
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD",┃AR┃ BEIN SPORTS 9 SD S1
@@ -7885,125 +7897,4 @@ http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=1616921&exten
 http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042045&extension=ts
 #EXTINF:-1 group-title="FR| DAZN PPV",End | Walter Ferretti vs. UNAN Managua | Primera Division - Nicaragua | 2026-08-24 | 01:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
 http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042044&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",Next | Herentals Queens vs. LDF Ladies | CAF Womens´s Champions League - COSAFA Qualifier | 2026-08-24 | 14:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 3
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042043&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",Next | Mayence vs. Werder Brême | Frauen Bundesliga | 2026-08-24 | 16:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042042&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",Next | Bologne vs. Lazio | Serie A Enilive | 2026-08-24 | 16:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 5
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042041&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",Next | NEOM vs. Al Qadsiah | Saudi Pro League | 2026-08-24 | 16:40 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 6
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042040&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",Next | Gaborone United vs. Zesco Ndola Girls | CAF Womens´s Champions League - COSAFA Qualifier | 2026-08-24 | 17:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 7
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042039&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",Next | Osasuna vs. Levante | LALIGA EA Sports | 2026-08-24 | 17:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 8
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042038&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",Next | Al Ittihad vs. Al Hazem | Saudi Pro League | 2026-08-24 | 18:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 9
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042037&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",Next | DAZN Transfer by Fabrizio Romano - 24 Août | DAZN Transfer by Fabrizio Romano | 2026-08-24 | 18:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 10
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042036&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",Next | Inside The Ring - 24 Aug | Inside The Ring | 2026-08-24 | 18:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 11
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042035&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",Next | AS Rome vs. Fiorentina | Serie A Enilive | 2026-08-24 | 18:45 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 12
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042034&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",Next | Málaga vs. Deportivo La Corogne | LALIGA EA Sports | 2026-08-24 | 19:30 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 13
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042033&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 14
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042032&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 15
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042031&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 16
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042030&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 17
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042029&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 18
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042028&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 19
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042027&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 20
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042026&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 21
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042025&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 22
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042024&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 23
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042023&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 24
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042022&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 25
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042021&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 26
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042020&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 27
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042019&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 28
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042018&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 29
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042017&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 30
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042016&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 31
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042015&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 32
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042014&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 33
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042013&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 34
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042012&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 35
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042011&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 36
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042010&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 37
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042009&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 38
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042008&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 39
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042007&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 40
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042006&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 41
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042005&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 42
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042004&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 43
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042003&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 44
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042002&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 45
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042001&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 46
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2042000&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 47
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041999&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 48
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041998&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 49
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041997&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 50
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041996&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 51
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041995&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 52
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041994&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 53
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041993&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 54
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041992&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 55
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041991&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 56
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041990&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 57
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041989&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 58
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041988&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 59
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041987&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 60
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041986&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 61
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041985&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 62
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041984&extension=ts
-#EXTINF:-1 group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 63
-http://185.80.197.65:80/play/live.php?mac=10:27:BE:3D:64:0E&stream=2041983&extension=ts
+
