@@ -388,6 +388,10 @@ https://sv1.kisskh.su/?sub=98&path=tracks-v1a1/mono.m3u8
 https://sv1.kisskh.su/?sub=97&path=tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD",┃AR┃ BEIN SPORTS 8 HD S1
 https://sv1.kisskh.su/?sub=98&path=tracks-v1a1/mono.m3u8
+#EXTINF:-1,Abu Dhabi Sports 1 Premium
+https://sv1.kisskh.su/?sub=609&path=tracks-v1a1/mono.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2 Premium
+https://sv1.kisskh.su/?sub=610&path=tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="ARABIC SP⚽RT 4K ✪ عربي سبورت",✪✪✪✪ ARABIC SPORT CHANNELS ✪✪✪✪
 http://tgdns4k.com:8080/Abdulrahmankhalouta/w1122333w234w/65845
