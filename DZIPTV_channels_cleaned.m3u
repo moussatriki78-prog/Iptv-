@@ -187,9 +187,9 @@ https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashoottt
 #EXTINF:-1 tvg-id='Alwan 1",Alwan 1
 https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashootttv.com%2Fhls%2Fch1%2Flive%2Findex.m3u8
 #EXTINF:-1 tvg-id='Alwan 3",Alwan 3
-https://footfytv.pro/proxy/direct?url=https://redperch.space/dramacardinal.php?id=alwan3&_cb=1787860760487
+https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashootttv.com%2Fhls%2Fch3%2Flive%2Findex.m3u8
 #EXTINF:- tvg-id='Alwan 4",Alwan 4
-https://footfytv.pro/proxy/direct?url=https://redperch.space/dramacardinal.php?id=alwan4&_cb=1787861184522
+https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashootttv.com%2Fhls%2Fch5%2Flive%2Findex.m3u8
 #EXTINF:- tvg-id='Alwan 5",Alwan 5
 https://footfytv.pro/proxy/direct?url=https://redperch.space/dramacardinal.php?id=alwan5&_cb=1787861324312
 #EXTINF:- tvg-id='Alwan 6",Alwan 6
@@ -208,7 +208,7 @@ http://94.130.32.19:8080/sporttv5/index.m3u8
 #EXTINF:-1,Sport TV 6
 http://94.130.32.19:8080/sporttv6/index.m3u8
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD",┃AR┃ BEIN SPORTS 1 HD S1
-https://sv1.kisskh.su/?sub=91&path=tracks-v1a1/mono.m3u8
+https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashootttv.com%2Fhls%2Fch4%2Flive%2Findex.m3u8
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD",┃AR┃ BEIN SPORTS 2 HD S1
 https://sv1.kisskh.su/?sub=92&path=tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD",┃AR┃ BEIN SPORTS 3 HD S1
