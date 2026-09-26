@@ -186,16 +186,16 @@ http://185.9.2.18/chid_379/index.m3u8
 http://185.9.2.18/chid_378/index.m3u8
 #EXTINF:-1 tvg-id='MIX بالعربى",MIX بالعربى DZIPTV
 https://ml-pull-hwc.myco.io/MixBelAraby/hls/MixBelAraby_H264-720p.m3u8
-#EXTINF:-1 tvg-id='Alwan 2",ALWAN 2
+#EXTINF:-1 tvg-id='bein sport 2",bein sport 2 DZIPV
 https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashootttv.com%2Fhls%2Fch2%2Flive%2Findex.m3u8
 #EXTINF:-1 tvg-id='Alwan 1",Alwan 1
 https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashootttv.com%2Fhls%2Fch1%2Flive%2Findex.m3u8
-#EXTINF:-1 tvg-id='Alwan 3",Alwan 3
+#EXTINF:-1 tvg-id='bein sport 3",bein sport 3 DZIPV
 https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashootttv.com%2Fhls%2Fch3%2Flive%2Findex.m3u8
-#EXTINF:- tvg-id='Alwan 4",Alwan 4
+#EXTINF:- tvg-id='bein sport 4",bein sport 4 DZIPTV
+https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashootttv.com%2Fhls%2Fch4%2Flive%2Findex.m3u8
+#EXTINF:- tvg-id='bein sport5",BEIN SPORTS 5 DZIPTV
 https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashootttv.com%2Fhls%2Fch5%2Flive%2Findex.m3u8
-#EXTINF:- tvg-id='Alwan 5",Alwan 5
-https://footfytv.pro/proxy/direct?url=https://redperch.space/dramacardinal.php?id=alwan5&_cb=1787861324312
 #EXTINF:- tvg-id='Alwan 6",Alwan 6
 https://footfytv.pro/proxy/direct?url=https://redperch.space/dramacardinal.php?id=alwan6&_cb=1787861402072
 
@@ -220,86 +220,6 @@ https://sv1.kisskh.su/?sub=609&path=tracks-v1a1/mono.m3u8
 #EXTINF:-1,Abu Dhabi Sports 2 Premium
 https://sv1.kisskh.su/?sub=610&path=tracks-v1a1/mono.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",##### beIN SP⚽RTS HD ◉ #####
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544837.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 1 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544835.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 2 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544834.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 3 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544833.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 4 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544832.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 5 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544831.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 6 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544830.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 7 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544829.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 8 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544828.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 9 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544827.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 1 XTRA HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544826.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 2 XTRA HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544825.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 3 XTRA HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544824.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts NBA HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544823.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",##### beIN SP⚽RTS 4K ◉ #####
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544822.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 1 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544821.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 2 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544820.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 3 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544819.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 4 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544818.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 5 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544817.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 6 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544816.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 7 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544815.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 8 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544814.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 9 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544813.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 1 XTRA 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544812.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 2 XTRA 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544811.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 3 XTRA 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544810.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 1 ENGLISH 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544807.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 1 FRANCE 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544809.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 2 FRANCE 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544808.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",##### beIN SP⚽RTS HEVC ◉ #####
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544806.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 1 HEVC
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544805.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 2 HEVC
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544804.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 3 HEVC
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544803.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 4 HEVC
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544802.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 5 HEVC
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544801.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 6 HEVC
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544800.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 7 HEVC
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544799.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 8 HEVC
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544798.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ◉ ⚽",◉: beIN Sp⚽rts 9 HEVC
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/544797.m3u8
 #EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ ⚽",##### beIN SP⚽RTS ˢᵈ #####
 http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/985137.m3u8
 #EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ ⚽",ᵁᴴᴰ: beIN Sp⚽rts 1 ˢᵈ
