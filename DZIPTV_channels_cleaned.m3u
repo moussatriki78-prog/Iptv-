@@ -17,8 +17,8 @@ https://live-hls-web-aja2-gcp.thehlive.com/AJA2/06.m3u8
 https://live-hls-web-ajd-ll-bp.thehlive.com/AJD/05.m3u8
 #EXTINF:-1 tvg-id="mobachir",Aljazera mobachir
 https://live-hls-web-ajm-ll-bp.thehlive.com/AJM/index.m3u8
-#EXTINF:-1 tvg-id="BEIN SPORTS-live",beIN Sports live
-https://pl.matchlivehd/albaplayer/1bein1/?serv=1
+#EXTINF:-1 tvg-id="aresala",RISALA
+https://live-tv-116849026166.europe-west1.run.app/api/rotana/stream/rotana-risala/360p.m3u8 
 #EXTM3U
 #EXTINF:0,MBC 2
 #EXTGRP:افلام 24 ساعة
