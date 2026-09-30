@@ -3,8 +3,8 @@
 http://185.9.2.18/chid_597/index.m3u8
 #EXTINF:-1 tvg-id="ENTV",ENTV DZIPTV 
 http://m3u.drm-26.com:80/live/Mkdtv1_061261/4STJysUc/1389279.m3u8
-#EXTINF:-1 tvg-id="TV6",TV6 DZIPTV 
-http://m3u.drm-26.com:80/live/Mkdtv1_061261/4STJysUc/54836.m3u8
+#EXTINF:-1 tvg-id="ENAHAR TV",ENAHAR TV DZIPTV 
+https://games1.elahmad.store/tv17_www_elahmad._ennahar/index.m3u8?token=9136eb7598607bcbc9115646302c7c4b3c6ebbb5-fc2cea5d8e193984dd251cfbf5c27902-1790798219-1790796419
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Al_Arabiya_logo.svg/512px-Al_Arabiya_logo.svg.png" tvg-id=",alabia",alabia
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Al_Hadath_logo.svg/512px-Al_Hadath_logo.svg.png" tvg-id=",alhadath",alhadath
