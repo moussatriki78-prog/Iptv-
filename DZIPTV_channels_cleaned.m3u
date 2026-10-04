@@ -3,8 +3,8 @@
 http://185.9.2.18/chid_597/index.m3u8
 #EXTINF:-1 tvg-id="ENTV",ENTV DZIPTV 
 http://m3u.drm-26.com:80/live/Mkdtv1_061261/4STJysUc/1389279.m3u8
-#EXTINF:-1 tvg-id="ENAHAR TV",ENAHAR TV DZIPTV 
-https://games1.elahmad.store/tv17_www_elahmad._ennahar/index.m3u8?token=9136eb7598607bcbc9115646302c7c4b3c6ebbb5-fc2cea5d8e193984dd251cfbf5c27902-1790798219-1790796419
+#EXTINF:-1 tvg-id=" TV", TV DZIPTV 
+https://infinity-c36.youboranqs01.com/init?triggeredEvents=%5B%22playListenerNotStarted%22%5D&pluginHash=853dffb8949036d9d4ebba65cd5334d4&accountCode=wps&player=videojs-hls&title=%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%E2%80%93%20%D8%A7%D9%84%D8%A8%D8%AB%20%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1&live=true&mediaResource=https%3A%2F%2Flive.kwikmotion.com%2Fksaquranlive%2Fksaquran.smil%2Fplaylist_dvr.m3u8%3Fhdnts%3Dexp%3D1791138383~acl%3D%2Fksaquranlive%2Fksaquran.smil%2F*~hmac%3D115532afad0ce43bccbd07ae90c37254c143dd8e210a08a891746696b07511e0&param2=1560823&playerStartupTime=39670&obfuscateIp=false&p2pEnabled=false&pluginVersion=7.0.8-videojs-js&pluginInfo=%7B%22lib%22%3A%227.2.45%22%2C%22adapter%22%3A%227.0.8-videojs-js%22%2C%22adAdapter%22%3A%227.0.8-videojs-ads-js%22%7D&referer=https%3A%2F%2Faloula.sba.sa%2Flive%2Fquran&adsExpected=false&deviceUUID=19490ca88217740662749208d49b3b85&libVersion=7.2.45-js-sdk&appName=WEB&appReleaseVersion=9.12.4&tvshow=%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%E2%80%93%20%D8%A7%D9%84%D8%A8%D8%AB%20%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1&season=%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%E2%80%93%20%D8%A7%D9%84%D8%A8%D8%AB%20%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1&titleEpisode=%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%E2%80%93%20%D8%A7%D9%84%D8%A8%D8%AB%20%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1&channel=%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%E2%80%93%20%D8%A7%D9%84%D8%A8%D8%AB%20%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1&contentType=live%20streaming&playbackType=Live&drm=no%20drm&contentId=%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%E2%80%93%20%D8%A7%D9%84%D8%A8%D8%AB%20%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1&code=V_30039751_bgpug1ald5mqz5i8_1791138391571&timemark=1791138400307&sessionRoot=V_30039751_bgpug1ald5mqz5i8&system=wps
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Al_Arabiya_logo.svg/512px-Al_Arabiya_logo.svg.png" tvg-id=",alabia",alabia
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Al_Hadath_logo.svg/512px-Al_Hadath_logo.svg.png" tvg-id=",alhadath",alhadath
@@ -224,116 +224,6 @@ https://kurdtv.org/api/public/hls?u=https://streams.rooter.gg/hls/39776c5fbcb266
 https://live-tv-116849026166.europe-west1.run.app/api/sindbad/m3u8?url=http%3A%2F%2Fassets.pushyourcss.world%3A8080%2Fassets%2Fres2%2Fjava2%2F1457.css%3Fx%3D%2Fhls%2F%26token%3DMXV0a1FGc3RXeExQbGE1&channel=thmanyah-2
 #EXTINF:-1,3ثمانية LIVE DZIPTV
 https://live-tv-116849026166.europe-west1.run.app/api/sindbad/m3u8?url=http%3A%2F%2Fassets.pushyourcss.world%3A8080%2Fassets%2Fres2%2Fjava2%2F1460.css%3Fx%3D%2Fhls%2F%26token%3DSk5UQUxqcFF5dm83cHZS&channel=thmanyah-3
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: Al Fajer 1 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458542.m3u8
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: Al Fajer 2 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458541.m3u8
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: Al Fajer 3 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458540.m3u8
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: Al Fajer 4 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458539.m3u8
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: Al Fajer 5 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458538.m3u8
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: UEFA CHAMPIONS LEAGUE 1 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458504.m3u8
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: UEFA CHAMPIONS LEAGUE 2 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458503.m3u8
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: UEFA CHAMPIONS LEAGUE 3 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458502.m3u8
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: UEFA CHAMPIONS LEAGUE 4 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458501.m3u8
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: UEFA CHAMPIONS LEAGUE 5 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458500.m3u8
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: UEFA CHAMPIONS LEAGUE 6 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458499.m3u8
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: UEFA CHAMPIONS LEAGUE 1 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458498.m3u8
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: UEFA CHAMPIONS LEAGUE 2 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458497.m3u8
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: UEFA CHAMPIONS LEAGUE 3 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458496.m3u8
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: UEFA CHAMPIONS LEAGUE 4 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458495.m3u8
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: UEFA CHAMPIONS LEAGUE 5 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458494.m3u8
-#EXTINF:-1 group-title="AR| UEFA CHAMPIONS LEAGUE ⚽",SPO: UEFA CHAMPIONS LEAGUE 6 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/458493.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",###### SPORT 4K ######
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/252011.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: STC 1 ᴿᴬᵂ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/1691271.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: STC 2 ᴿᴬᵂ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/1691270.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: STC 3 ᴿᴬᵂ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/1691269.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: STC 4 ᴿᴬᵂ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/1691268.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: STC SPORT 1 GOBX ᴿᴬᵂ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/1691267.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: STC SPORT 2 GOBX ᴿᴬᵂ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/1691266.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: DIWAN SPORT 1 ◉ ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/1630041.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: DIWAN SPORT 2 ◉ ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/1630040.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: SPORT 1 ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/1789306.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: SPORT 2 ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/1789305.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: SPORT 1 ᴿᴬᵂ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/1789304.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: SPORT 2 ᴿᴬᵂ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/1789303.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Kass 1 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/498849.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Kass 2 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/498883.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Kass 3 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/498886.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Kass 4 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/498884.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Kass 5 HD (LIVE EVENT ONLY)
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/457287.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Kass 1 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/3120.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Kass 2 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/3121.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Kass 3 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/314634.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Kass 4 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/3122.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Kass 5 4K (LIVE EVENT ONLY)
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/120449.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Kass 6 4K (LIVE EVENT ONLY)
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/314636.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Kass 7 4K (LIVE EVENT ONLY)
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/478760.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Kass 7 HD (LIVE EVENT ONLY)
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/478759.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Kass 8 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/1465760.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Kass 9 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/1415733.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Saudia Sport 1 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/346050.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Saudia Sport 1 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/498847.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Saudia Sport 2 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/346052.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Saudia Sport 3 4K
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/346051.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Saudia Sport 3 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/498848.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Fajer 1 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/288142.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Fajer 2 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/288143.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Fajer 3 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/288144.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Fajer 4 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/288145.m3u8
-#EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Fajer 5 HD
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/288146.m3u8
 #EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: SPORT-5-ARABIC-EVENT
 http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/439965.m3u8
 #EXTINF:-1 group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: PROGRAMME NATIONAL HD
