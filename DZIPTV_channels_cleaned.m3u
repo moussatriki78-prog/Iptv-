@@ -205,8 +205,8 @@ https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/475087
 https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashootttv.com%2Fhls%2Fch4%2Flive%2Findex.m3u8
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD",┃AR┃ BEIN SPORTS 2 HD DZIPTV 
 https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4742072/master.m3u8
-#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD",┃AR┃ BEIN SPORTS 1 HD DZIPTV
-https://live-tv-116849026166.europe-west1.run.app/api/special-stream/live/4742074/master.m3u8
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD",┃AR┃ BEIN SPORTS 1 1080p DZIPTV
+https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-1080p.m3u8
 #EXTINF:-1 group-title="┃AR┃ alwan 1 HD",┃AR┃ bein sports  2HD DZIPTV
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-240p.m3u8
 #EXTINF:-1 group-title="┃AR┃ bein sport 3 HD",┃AR┃ bein sports 3 HD DZIPTV
