@@ -223,40 +223,10 @@ https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-240
 https://live-tv-116849026166.europe-west1.run.app/api/sindbad/m3u8?url=http%3A%2F%2Fassets.pushyourcss.world%3A8080%2Fassets%2Fres2%2Fjava2%2F1457.css%3Fx%3D%2Fhls%2F%26token%3DMXV0a1FGc3RXeExQbGE1&channel=thmanyah-2
 #EXTINF:-1,3ثمانية LIVE DZIPTV
 https://live-tv-116849026166.europe-west1.run.app/api/sindbad/m3u8?url=http%3A%2F%2Fassets.pushyourcss.world%3A8080%2Fassets%2Fres2%2Fjava2%2F1460.css%3Fx%3D%2Fhls%2F%26token%3DSk5UQUxqcFF5dm83cHZS&channel=thmanyah-3
-
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062975.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: JORDAN TV ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062974.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: KARAMEESH ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062973.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: KSA NOW ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062972.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: LBC ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062971.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: LTV ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062970.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: MAJID ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062969.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: NAT. GEO. ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062968.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: NAT. GEO. AD ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062967.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: NAT. GEO. WILD ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062966.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: OMAN AL THAKAFEYAH ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062965.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: OMAN MUBASHER ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062964.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: OMAN SPORT ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062963.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: OMAN TV ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062962.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ONE TV ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062961.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA + ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062960.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA AFLAM + ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062959.m3u8
+#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",DZIPV: ROTANA-cinemaᴴᴰ
+https://live-tv-116849026166.europe-west1.run.app/api/rotana/stream/rotana-cinema/720p.m3u8
+#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",DZIPTV: ROTANA DRAMA+ 
+https://live-tv-116849026166.europe-west1.run.app/api/rotana/stream/rotana-drama/720p.m3u8
 #EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA CINEMA + US ᴴᴰ
 http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062958.m3u8
 #EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA CINEMA KSA ᴴᴰ
@@ -265,38 +235,7 @@ http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062957.m3u8
 http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062956.m3u8
 #EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA CLASSIC ᴴᴰ
 http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062955.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA CLIP ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062954.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA COMEDY ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062953.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA DRAMA ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062952.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA KHALEJIYA ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062951.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA KIDS ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062950.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA M+ ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062949.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA MUSIC ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062948.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROYA ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062947.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: RT ARABIC ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062946.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: RT DOCUMENTARY ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062945.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: RT NEWS ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062944.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: SAMA DUBAI ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062943.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: SAUDI 1 ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062942.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: SAUDI QURAN ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062941.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: SAUDI SUNNAH ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062940.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: SBC ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062939.m3u8
+#EXTINF:-1 group-title="AR| STC 
 #EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: SHARJAH QURAN ᴴᴰ
 http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062938.m3u8
 #EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: SHARJAH SPORTS ᴴᴰ
