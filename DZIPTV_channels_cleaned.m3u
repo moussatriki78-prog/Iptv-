@@ -3,8 +3,8 @@
 http://185.9.2.18/chid_597/index.m3u8
 #EXTINF:-1 tvg-id="ENTV",ENTV DZIPTV 
 http://m3u.drm-26.com:80/live/Mkdtv1_061261/4STJysUc/1389279.m3u8
-#EXTINF:-1 tvg-id=" TV", sport live TV DZIPTV 
-https://pl.matchlivehd.com/albaplayer/1bein/?serv=1
+#EXTINF:-1 tvg-id=" rtTV", RT TV DZIPTV 
+https://rt-arb.rttv.com/live/rtarab/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Al_Arabiya_logo.svg/512px-Al_Arabiya_logo.svg.png" tvg-id=",alabia",alabia
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Al_Hadath_logo.svg/512px-Al_Hadath_logo.svg.png" tvg-id=",alhadath",alhadath
@@ -235,17 +235,18 @@ http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062957.m3u8
 http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062956.m3u8
 #EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA CLASSIC ᴴᴰ
 http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062955.m3u8
-#EXTINF:-1 group-title="AR| STC 
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: SHARJAH QURAN ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062938.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: SHARJAH SPORTS ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062937.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: SHARJAH TV ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062936.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: SHARQIYA FROM KALBA ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062935.m3u8
+
+#EXTINF:-1 group-title="AR| arryadia tnt ᴴᴰ",dziptv: arryadia tntᴴᴰ
+https://token.easybroadcast.io/all?url=https%3A%2F%2Fcdn.live.easybroadcast.io%2Fabr_corp%2F73_arryadia_k2tgcj0%2Fplaylist_dvr.m3u8
+#EXTINF:-1 group-title="AR| aloula tnt ᴴᴰ",dziptv: aloula tnt ᴴᴰ
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_240p/chunks_dvr.m3u8?token=YbEPcIWxdOeohfBnS0nJSIN9Wz4ZJxPm3gaMBBAyo_o&expires=1791749549&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0
+#EXTINF:-1 group-title="AR| live sportᴴᴰ",dziptv: live sportᴴᴰ
+https://pull.gosh6.app/live/obs_17005154_FHD.m3u8?txSecret=ec48777ece0ed663d735a47a04b377f8&txTime=6acfcae1
+#EXTINF:-1 group-title="AR| live sportᴴᴰ",dziptv: live sportᴴᴰ
+https://pull.gosh6.app/live/obs_16998359.m3u8?txSecret=4f93971422bfb597fb5fdfa0e5a56514&txTime=6acfbc7c
+
 #EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: SKY NEWS ARABIA ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062934.m3u8
+http://8krice2026.com:80/live/2a6 5q ept j457fbee8f/bfe64d352a/2062934.m3u8
 #EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: SPACETOON ᴴᴰ
 http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062933.m3u8
 #EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: STAR ACTION ᴴᴰ
