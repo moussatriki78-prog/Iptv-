@@ -227,17 +227,11 @@ https://live-tv-116849026166.europe-west1.run.app/api/sindbad/m3u8?url=http%3A%2
 https://live-tv-116849026166.europe-west1.run.app/api/rotana/stream/rotana-cinema/720p.m3u8
 #EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",DZIPTV: ROTANA DRAMA+ 
 https://live-tv-116849026166.europe-west1.run.app/api/rotana/stream/rotana-drama/720p.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA CINEMA + US ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062958.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA CINEMA KSA ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062957.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA CINEMA MASR ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062956.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ROTANA CLASSIC ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062955.m3u8
+#EXTINF:-1 group-title="AR| LBC ᴴᴰ",DZIPTV: LBC HD
+https://live-tv-116849026166.europe-west1.run.app/api/rotana/stream/rotana-lbc/720p.m3u8
 
-#EXTINF:-1 group-title="AR| arryadia tnt ᴴᴰ",dziptv: arryadia tntᴴᴰ
-https://token.easybroadcast.io/all?url=https%3A%2F%2Fcdn.live.easybroadcast.io%2Fabr_corp%2F73_arryadia_k2tgcj0%2Fplaylist_dvr.m3u8
+#EXTINF:-1 group-title="AR| chachasport ᴴᴰ",dziptv: shasha sport ᴴᴰ
+https://live-tv-116849026166.europe-west1.run.app/api/shasha/stream/6ab286e88861eb5a0ae95e96/360p.m3u8
 #EXTINF:-1 group-title="AR| aloula tnt ᴴᴰ",dziptv: aloula tnt ᴴᴰ
 https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_240p/chunks_dvr.m3u8?token=YbEPcIWxdOeohfBnS0nJSIN9Wz4ZJxPm3gaMBBAyo_o&expires=1791749549&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0
 #EXTINF:-1 group-title="AR| live sportᴴᴰ",dziptv: live sportᴴᴰ
@@ -327,24 +321,6 @@ http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063181.m3u8
 http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063180.m3u8
 #EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: MBC MASR ʰᵉᵛᶜ
 http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063179.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: MBC MASR 2 ʰᵉᵛᶜ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063178.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: MBC MAX ʰᵉᵛᶜ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063177.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: MBC MOOD ʰᵉᵛᶜ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063176.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: MBC VARIETY ʰᵉᵛᶜ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063175.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: MBC+ DRAMA ʰᵉᵛᶜ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063174.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: MTV LEBANON ʰᵉᵛᶜ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063173.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: 24 SPORT ʰᵉᵛᶜ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063172.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: ABU DHABI ʰᵉᵛᶜ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063171.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: AD SPORTS 1 ʰᵉᵛᶜ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063170.m3u8
 #EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: AD SPORTS 2 ʰᵉᵛᶜ
 http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063169.m3u8
 #EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: AL ARABIYA ʰᵉᵛᶜ
