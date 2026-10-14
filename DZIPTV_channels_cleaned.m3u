@@ -19,6 +19,8 @@ https://live-hls-web-ajd-ll-bp.thehlive.com/AJD/05.m3u8
 https://live-hls-web-ajm-ll-bp.thehlive.com/AJM/index.m3u8
 #EXTINF:-1 tvg-id="aresala",RISALA
 https://live-tv-116849026166.europe-west1.run.app/api/rotana/stream/rotana-risala/360p.m3u8 
+#EXTINF:-1 tvg-id"قرآن كريم",قناة القرآن الكريم 
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTM3U
 #EXTINF:0,MBC 2
 http://154.58.202.18:8080/mbc2/index.m3u8
@@ -239,44 +241,17 @@ https://pull.gosh6.app/live/obs_17005154_FHD.m3u8?txSecret=ec48777ece0ed663d735a
 #EXTINF:-1 group-title="AR| live sportᴴᴰ",dziptv: live sportᴴᴰ
 https://pull.gosh6.app/live/obs_16998359.m3u8?txSecret=4f93971422bfb597fb5fdfa0e5a56514&txTime=6acfbc7c
 
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: SKY NEWS ARABIA ᴴᴰ
-http://8krice2026.com:80/live/2a6 5q ept j457fbee8f/bfe64d352a/2062934.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: SPACETOON ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062933.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: STAR ACTION ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062932.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: STAR MOVIES ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062931.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: STAR WORLD ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062930.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: TCM ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062929.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: TEN ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062928.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: TLC ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062927.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: TOYOUR AL JANNAH ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062926.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: TRAVEL CHANNEL ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062925.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: WOUSTA FROM AL DHAID ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062924.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ZEE AFLAM ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062923.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: ZEE ALWAN ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2062922.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ᴴᴰ",STC: THEKRAYAT ᴴᴰ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063059.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",#### STC EXCLUSIVE ʰᵉᵛᶜ ####
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063205.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: STC TV SPORTS 1 ʰᵉᵛᶜ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063204.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: STC TV SPORTS 2 ʰᵉᵛᶜ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063203.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: STC TV THMANYAH ʰᵉᵛᶜ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063202.m3u8
-#EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: THMANYAH.1 ʰᵉᵛᶜ
-http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063201.m3u8
+#EXTINF:-1 
+#EXTINF:-1 group-title="AR| ALWAN SPORTS ʰᵉᵛᶜ",#### BEIN SPORTS 1 DZIPTV ####
+https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashootttv.com%2Fhls%2Fch1%2Flive%2Findex.m3u8
+#EXTINF:-1 group-title="AR| dziptv EXCLUSIVE hd",dziptv: BEIN SPORTS 2 HD 
+https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashootttv.com%2Fhls%2Fch2%2Flive%2Findex.m3u8
+#EXTINF:-1 group-title="AR| DZIPTVEXCLUSIVE hd",dziptv: BEIN SPORTS 4 hd
+https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashootttv.com%2Fhls%2Fch4%2Flive%2Findex.m3u8
+#EXTINF:-1 group-title="AR| DZIPTV EXCLUSIVE ʰd",dziptv: BEIN SPORTS 5 hd
+https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashootttv.com%2Fhls%2Fch5%2Flive%2Findex.m3u8
+#EXTINF:-1 group-title="AR| dziptv EXCLUSIVE ʰd",dziptv: BEIN SPORTS.6 ʰd
+https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashootttv.com%2Fhls%2Fch5%2Flive%2Findex.m3u8
 #EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: THMANYAH.2 ʰᵉᵛᶜ
 http://8krice2026.com:80/live/2a57fbee8f/bfe64d352a/2063200.m3u8
 #EXTINF:-1 group-title="AR| STC EXCLUSIVE ʰᵉᵛᶜ",STC: THMANYAH.3 ʰᵉᵛᶜ
