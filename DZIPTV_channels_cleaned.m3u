@@ -17,6 +17,8 @@ https://live-hls-web-aja2-gcp.thehlive.com/AJA2/06.m3u8
 https://live-hls-web-ajd-ll-bp.thehlive.com/AJD/05.m3u8
 #EXTINF:-1 tvg-id="mobachir",Aljazera mobachir
 https://live-hls-web-ajm-ll-bp.thehlive.com/AJM/index.m3u8
+#EXTNIF:- tvg-id="beIN NEWS",beIN NEWS 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/101.m3u8 
 #EXTINF:-1 tvg-id="aresala",RISALA
 https://live-tv-116849026166.europe-west1.run.app/api/rotana/stream/rotana-risala/360p.m3u8 
 #EXTINF:-1 tvg-id"قرآن كريم",قناة القرآن الكريم 
