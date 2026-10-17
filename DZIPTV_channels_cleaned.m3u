@@ -239,7 +239,7 @@ https://live-tv-116849026166.europe-west1.run.app/api/shasha/stream/6ab286e88861
 #EXTINF:-1 group-title="AR| aloula tnt ᴴᴰ",dziptv: aloula tnt ᴴᴰ
 https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_240p/chunks_dvr.m3u8?token=YbEPcIWxdOeohfBnS0nJSIN9Wz4ZJxPm3gaMBBAyo_o&expires=1791749549&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0
 #EXTINF:-1 group-title="AR| live sportᴴᴰ",dziptv: live sportᴴᴰ
-https://pull.gosh6.app/live/obs_17005154_FHD.m3u8?txSecret=ec48777ece0ed663d735a47a04b377f8&txTime=6acfcae1
+https://pull.gosh6.app/live/obs_17021545_live720.m3u8?txSecret=1a6a0dd8c4f112e4cdaa00e7c108cf7e&txTime=6ad764e0
 #EXTINF:-1 group-title="AR| live sportᴴᴰ",dziptv: live sportᴴᴰ
 https://pull.gosh6.app/live/obs_16998359.m3u8?txSecret=4f93971422bfb597fb5fdfa0e5a56514&txTime=6acfbc7c
 
