@@ -81,9 +81,11 @@ https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
 #EXTINF:-1 tvg-id="PalestineEdu.ps@SD" tvg-logo="https://i.imgur.com/AwVHXyC.png" group-title="Education",Palestine Edu (1080p) 
 https://pbc.furrera.ps/PalestineEDU/index.m3u8 
 #EXTINF:-1 tvg-id="PalestineMubasher.ps@SD" tvg-logo="https://i.imgur.com/68llVTZ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="General",Palestine Mubasher (1080p) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 https://pbc.furrera.ps/palestinelivehd/index.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 
+https://pbc.furrera.ps/palestinelivehd/index.m3u8 
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps@SD" tvg-logo="https://i.imgur.com/4B5FvmX.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="General",Palestine Satellite Channel (1080p) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 
+https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 tvg-id="PalestineToday.ps@SD" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="News",Palestine Today (480p) [Geo-blocked] 
 https://live.paltodaytv.com/paltv/live/playlist.m3u8 
 #EXTINF:-1 tvg-id="Palestinetv.ir@SD" tvg-logo="https://i.ibb.co/svrZNZTX/Palestine.png" group-title="General",Palestinetv 
@@ -144,12 +146,22 @@ https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SharjahTV.ae@SD" tvg-logo="https://i.imgur.com/Oz2bPOt.png" group-title="Religious",Sharjah TV (1080p) 
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8 #EXTINF:-1 tvg-id="FujairahTV.ae@SD" tvg-logo="https://i.imgur.com/D2tOhbE.png" group-title="Entertainment",Fujairah TV (720p) 
-https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8 
- 
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8  
 #EXTINF:-1 tvg-id="AmmanTV.jo@SD" tvg-logo="https://i.imgur.com/5l7kw0b.png" group-title="General",Amman TV (720p) 
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8 
 #EXTINF:-1 tvg-id="DubaiTVInternational.ae@SD" tvg-logo="https://i.imgur.com/UMmbyHv.png" group-title="General",Dubai TV International (1080p) 
 http://185.9.2.18/chid_139/index.m3u8 
+#EXTINF:-1,ABU DABI TV
+http://novatv.xyz/live/906AD7481C06AF1/LK8xFNyHyV/753.m3u8
+#EXTINF:-1,ALEMARAT
+http://novatv.xyz/live/906AD7481C06AF1/LK8xFNyHyV/335768.m3u8
+#EXTINF:-,MADJID
+http://novatv.xyz/live/906AD7481C06AF1/LK8xFNyHyV/751.m3u8
+#EXTINF:-1,CN
+http://novatv.xyz/live/906AD7481C06AF1/LK8xFNyHyV/259677.m3u8
+#EXTINF:-1,قناة ج
+http://novatv.xyz/live/906AD7481C06AF1/LK8xFNyHyV/259676.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Al_Arabiya_logo.svg/512px-Al_Arabiya_logo.svg.png" tvg-id=",alabia",alabia
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
 
@@ -250,7 +262,10 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d
 #EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="Movies",MBC+ Drama (1080p) 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8 
 #EXTINF:0,MBC 2
-http://154.58.202.18:8080/mbc2/index.m3u8
+http://novatv.xyz/live/906AD7481C06AF1/LK8xFNyHyV/978.m3u8
+#EXTINF:0,MBC MAX
+http://novatv.xyz/live/906AD7481C06AF1/LK8xFNyHyV/974.m3u8
+
 
 #EXTINF:0,Aflam
 #EXTGRP:افلام 24 ساعة
@@ -412,10 +427,12 @@ https://ml-pull-hwc.myco.io/MixONE/hls/MixONE_H264-720p.m3u8
 http://185.9.2.18/chid_375/index.m3u8
 
 #EXTINF:-1 tvg-id='MBC MAX",MBC MAX
-http://185.9.2.18/chid_379/index.m3u8
+http://novatv.xyz/live/906AD7481C06AF1/LK8xFNyHyV/974.m3u8
 
 #EXTINF:-1 tvg-id='MBC ACTION",MBC ACTION 
 http://185.9.2.18/chid_378/index.m3u8
+#EXTINF:- tvg-id='DOBAI ONE",DOUBAI ONE DZIPTV
+http://novatv.xyz/live/906AD7481C06AF1/LK8xFNyHyV/749.m3u8
 
 #EXTINF:-1 tvg-id='MIX بالعربى",MIX بالعربى DZIPTV
 https://ml-pull-hwc.myco.io/MixBelAraby/hls/MixBelAraby_H264-720p.m3u8
