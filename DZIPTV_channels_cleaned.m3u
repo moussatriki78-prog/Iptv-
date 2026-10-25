@@ -546,14 +546,39 @@ __________________________________________beIN Sports USA_______________________
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7m1lLKh.jpeg" tvg-id="itzplay.id" group-title="beIN Sports", beIN Sports Xtra USA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-__________________________________________beIN Sports USA / En Español_________________________________________
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GrQmJYs.jpeg" tvg-id="itzplay.id" group-title="beIN Sports", beIN Sports Xtra ñ USA / En Español
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-
-__________________________________________beIN Sports En Español_________________________________________
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QNGdr3h.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports ñ
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/101.m3u8
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="AR • ALGERIA",AL ANIS HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092027&extension=ts
+#EXTINF:-1 group-title="AR • ALGERIA",AL Hadaf TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092026&extension=ts
+#EXTINF:-1 group-title="AR • ALGERIA",AL Magharibia 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092025&extension=ts
+#EXTINF:-1 group-title="AR • ALGERIA",Algeria 1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092024&extension=ts
+#EXTINF:-1 group-title="AR • ALGERIA",Algeria 5 Coran TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092023&extension=ts
+#EXTINF:-1 group-title="AR • ALGERIA",Algerian 3 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092022&extension=ts
+#EXTINF:-1 group-title="AR • ALGERIA",Algerian TV 4 Amazigh HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092021&extension=ts
+#EXTINF:-1 group-title="AR • ALGERIA",Bahia TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092020&extension=ts
+#EXTINF:-1 group-title="AR • ALGERIA",Canal Algérie 2 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092019&extension=ts
+#EXTINF:-1 group-title="AR • ALGERIA",Echorouk TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092018&extension=ts
+#EXTINF:-1 group-title="AR • ALGERIA",Echorouk TV NEWS HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092017&extension=ts
+#EXTINF:-1 group-title="AR • ALGERIA",EL Bilad TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092016&extension=ts
+#EXTINF:-1 group-title="AR • ALGERIA",EL Djazair N1 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092015&extension=ts
+#EXTINF:-1 group-title="AR • ALGERIA",Ennahar TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092014&extension=ts
+#EXTINF:-1 group-title="AR • ALGERIA",Samira TV HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092013&extension=ts
+#EXTINF:-1 group-title="AR • ALGERIA",TV6 HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092012&extension=ts
+#EXTINF:-1 group-title="AR • ALGERIA",TV7 EL Maarifa HD
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092011&extension=ts
 
