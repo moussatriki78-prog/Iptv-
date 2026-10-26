@@ -106,10 +106,18 @@ https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1 tvg-id="AlIttihadTV.lb@SD" tvg-logo="https://i.imgur.com/QMUjPXx.png" group-title="General",Al Ittihad TV (552p) [Not 24/7] 
 http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8 
 #EXTINF:-1 tvg-id="AlJadeed.lb@SD" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="General",Al Jadeed (1080p) 
-http://185.9.2.18/chid_391/mono.m3u8 
+http://185.9.2.18/chid_391/mono.m3u8
+#EXTINF:-1 tvg-id="TeleLiban.lb@SD" tvg-logo="https://i.imgur.com/5VPYxJi.png" group-title="General",Tele Liban (720p) [Not 24/7] 
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:-1 tvg-id="SyriaTV.sy@SD" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="News",Syria TV (1080p) 
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8 
+#EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="Kids",Taha TV (576p) 
+https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" http-referrer="https://spacetoon.com" group-title="Animation;Kids",Spacetoon Arabic (576p) #EXTVLCOPT:http-referrer=https://spacetoon.com 
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8 
 #EXTINF:-1 tvg-id=" rtTV", RT TV DZIPTV 
 https://rt-arb.rttv.com/live/rtarab/playlist_1600Kb.m3u8
- #EXTINF:-1 tvg-id="QafTV.tr@SD" tvg-logo="https://i.imgur.com/hrk7Uce.png" group-title="Undefined",Qaf TV (1080p) 
+#EXTINF:-1 tvg-id="QafTV.tr@SD" tvg-logo="https://i.imgur.com/hrk7Uce.png" group-title="Undefined",Qaf TV (1080p) 
 https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8 
 #EXTINF:-1 tvg-id="QatarTelevision2.qa@SD" tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="General",Qatar Television 2 (1080p) 
 https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8 
@@ -487,8 +495,6 @@ https://live-tv-116849026166.europe-west1.run.app/api/rotana/stream/rotana-lbc/7
 
 #EXTINF:-1 group-title="AR| chachasport ᴴᴰ",dziptv: shasha sport ᴴᴰ
 https://live-tv-116849026166.europe-west1.run.app/api/shasha/stream/6ab286e88861eb5a0ae95e96/360p.m3u8
-#EXTINF:-1 group-title="AR| aloula tnt ᴴᴰ",dziptv: aloula tnt ᴴᴰ
-https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_240p/chunks_dvr.m3u8?token=YbEPcIWxdOeohfBnS0nJSIN9Wz4ZJxPm3gaMBBAyo_o&expires=1791749549&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0
 #EXTINF:-1 group-title="AR| live sportᴴᴰ",dziptv: live sportᴴᴰ
 https://pull.gosh6.app/live/obs_17005154_FHD.m3u8?txSecret=ec48777ece0ed663d735a47a04b377f8&txTime=6acfcae1
 #EXTINF:-1 group-title="AR| live sportᴴᴰ",dziptv: live sportᴴᴰ
@@ -541,44 +547,14 @@ http://116.204.149.16/national_geographic_channel/tracks-v1a1/mono.m3u8
 https://live-tv-116849026166.europe-west1.run.app/api/sindbad/m3u8?url=http%3A%2F%2Fassets.pushyourcss.world%3A8080%2Fassets%2Fres2%2Fjava2%2F1469.css%3Fx%3D%2Fhls%2F%26token%3DMXV0a1FGc3RXeExQbGE1&channel=sindbad-starz-1
 #EXTINF:-1,ABU DABI SPORT 2DZIPTV by TRIKI
 https://live-tv-116849026166.europe-west1.run.app/api/sindbad/m3u8?url=http%3A%2F%2Fassets.pushyourcss.world%3A8080%2Fassets%2Fres2%2Fjava2%2F650.css%3Fx%3D%2Fhls%2F%26token%3DMXV0a1FGc3RXeExQbGE1&channel=sindbad-starz-2
+#EXTINF:-1,ALKASS 1
+https://live-tv-116849026166.europe-west1.run.app/api/stream-proxy?url=https%3A%2F%2Fliveeu-gcps.alkassdigital.net%2Falkass1-p%2F20260924T082640Z%2Fmux_video_720p_ts%2Fhdntl%3Dexp%3D1792601599~acl%3D%252f*~data%3Dhdntl~hmac%3Dcbfbcf4b19bae9137ec89145e3eb0944cc5fad513dcf2b158faf4e5f745464f1%2Findex-1.m3u8&referer=https%3A%2F%2Fshoof.alkass.net%2F
+#EXTINF:-1,ALKASS 2
+https://live-tv-116849026166.europe-west1.run.app/api/stream-proxy?url=https%3A%2F%2Fliveeu-gcps.alkassdigital.net%2Falkass2-p%2F20260924T082724Z%2Fmux_video_360p_ts%2Fhdntl%3Dexp%3D1792601698~acl%3D%252f*~data%3Dhdntl~hmac%3De1fe3cad39e5124528864a59eaab515d11ab27b3e477b02e2a9f7859614837e2%2Findex-1.m3u8&referer=https%3A%2F%2Fshoof.alkass.net%2F
 __________________________________________beIN Sports USA_________________________________________
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7m1lLKh.jpeg" tvg-id="itzplay.id" group-title="beIN Sports", beIN Sports Xtra USA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
-#EXTINF:-1 group-title="AR • ALGERIA",AL ANIS HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092027&extension=ts
-#EXTINF:-1 group-title="AR • ALGERIA",AL Hadaf TV HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092026&extension=ts
-#EXTINF:-1 group-title="AR • ALGERIA",AL Magharibia 1 HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092025&extension=ts
-#EXTINF:-1 group-title="AR • ALGERIA",Algeria 1 HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092024&extension=ts
-#EXTINF:-1 group-title="AR • ALGERIA",Algeria 5 Coran TV HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092023&extension=ts
-#EXTINF:-1 group-title="AR • ALGERIA",Algerian 3 HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092022&extension=ts
-#EXTINF:-1 group-title="AR • ALGERIA",Algerian TV 4 Amazigh HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092021&extension=ts
-#EXTINF:-1 group-title="AR • ALGERIA",Bahia TV HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092020&extension=ts
-#EXTINF:-1 group-title="AR • ALGERIA",Canal Algérie 2 HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092019&extension=ts
-#EXTINF:-1 group-title="AR • ALGERIA",Echorouk TV HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092018&extension=ts
-#EXTINF:-1 group-title="AR • ALGERIA",Echorouk TV NEWS HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092017&extension=ts
-#EXTINF:-1 group-title="AR • ALGERIA",EL Bilad TV HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092016&extension=ts
-#EXTINF:-1 group-title="AR • ALGERIA",EL Djazair N1 HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092015&extension=ts
-#EXTINF:-1 group-title="AR • ALGERIA",Ennahar TV HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092014&extension=ts
-#EXTINF:-1 group-title="AR • ALGERIA",Samira TV HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092013&extension=ts
-#EXTINF:-1 group-title="AR • ALGERIA",TV6 HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092012&extension=ts
-#EXTINF:-1 group-title="AR • ALGERIA",TV7 EL Maarifa HD
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1092011&extension=ts
+
 
