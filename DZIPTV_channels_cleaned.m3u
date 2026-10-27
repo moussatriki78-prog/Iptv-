@@ -555,6 +555,45 @@ __________________________________________beIN Sports USA_______________________
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7m1lLKh.jpeg" tvg-id="itzplay.id" group-title="beIN Sports", beIN Sports Xtra USA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+___________________________________________FRANCE SAT_____________________________________________
 
+#EXTINF:-1 tvg-logo="https://companieslogo.com/img/orig/TFI.PA-8c6da426.png" tvg-country="France" group-title="Généraliste",TF1
+https://tvradiozap.eu/tools/m3u-m3u8.php/para/tf1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/330px-Logo_M6_%282020%2C_fond_clair%29.svg.png" tvg-country="France" group-title="Généraliste",M6
+https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd#tvrz=Shaka&nolist
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/553f926ce4b0a46bddb4baf6/1561374992682-AQP12A8997URCIOMDY5I/ARTE-seul-2.png" tvg-country="France" group-title="Culture",Arte
+https://tvradiozap.eu/tools/m3u-m3u8.php/para/arte.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/330px-W9-Logo.svg.png" tvg-country="France" group-title="Divertissement",W9
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd#tvrz=Shaka&nolist
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/330px-TMC_logo_2016.svg.png" tvg-country="France" group-title="Généraliste",TMC
+https://tvradiozap.eu/tools/m3u-m3u8.php/para/tmc.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/330px-TFX_logo.svg.png" tvg-country="France" group-title="Divertissement",TFX
+https://tvradiozap.eu/tools/m3u-m3u8.php/para/tfx.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gulli_logo_2023.png/330px-Gulli_logo_2023.png" tvg-country="France" group-title="Jeunesse",Gulli
+https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_q2hyb21h/hls-short-sd.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169bfmtvcouleurs.png" tvg-country="France" group-title="Info",BFM TV
+https://live-cdn-bfmtv-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/330px-Canal_News_logo.svg.png" tvg-country="France" group-title="Info",CNews
+https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/LCI_logo_%282016%29.png/330px-LCI_logo_%282016%29.png" tvg-country="France" group-title="Info",LCI
+https://tvradiozap.eu/tools/tf-m3u8.php/LCI.m3u8
+#EXTINF:-1 tvg-logo="https://img.20mn.fr/0Gkk_u0qS22pBMK_ysg7kQ/1200x768_logo-chaine-france-info" tvg-country="France" group-title="Info",France Info
+https://tvradiozap.eu/tools/ft-m3u8.php/franceinfo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/330px-Logo_NOVO19_-_2025.svg.png" tvg-country="France" group-title="Généraliste",Novo19
+https://tvradiozap.eu/tools/m3u-m3u8.php/para/novo19.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/330px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" tvg-country="France" group-title="Séries-Films",TF1 Séries Films
+https://tvradiozap.eu/tools/m3u-m3u8.php/para/tf1seriesfilms.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_6ter_2016.svg/330px-Logo_6ter_2016.svg.png" tvg-country="France" group-title="Divertissement",6TER
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-6ter/cmaf_cenc00/dash-short-hd.mpd#tvrz=Shaka&nolist
+#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169rmcstorycouleurs.png" tvg-country="France" group-title="Divertissement",RMC Story
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169rmcdecouvertecouleurs.png" tvg-country="France" group-title="Culture",RMC Découverte
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/RMC_Life_logo_2025.svg/330px-RMC_Life_logo_2025.svg.png" tvg-country="France" group-title="Divertissement",RMC Life
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Le_Figaro_TV_IDF_%282023%29.png/330px-Le_Figaro_TV_IDF_%282023%29.png" tvg-country="France" group-title="Culture",Le Figaro TV
+https://tvradiozap.eu/tools/m3u-m3u8.php/para/lefigarotv.m3u8
+#EXTINF:-1 tvg-logo="https://princealbert1.mc/var/cap/storage/images/_aliases/w2160/7/7/4/0/50477-1-fre-FR/1e396f6f66bb-th-1-.jpg2.jpg" tvg-country="France" group-title="Voyage",Arte Invitation au Voyage
+https://d3223vg0o80ccf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xn2vfltkhli08/Invitationauvoyage_FR.m3u8
 
 
