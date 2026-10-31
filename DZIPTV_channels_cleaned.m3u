@@ -7,101 +7,6 @@ https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AsharqDocumentary.sa@SD" tvg-logo="https://i.imgur.com/v6VsFEt.png" group-title="Documentary",Asharq Documentary (1080p) 
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| ENTV
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/352531.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| CANAL ALGERIE
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/1687.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| A3 ALGERIE
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/1675.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| ALGERIE 4 TAMAZIGHT
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/1682.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| ALGERIE 5 QURAN
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/1683.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| ALGERIE 6
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/327314.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| ALGERIE 7
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/152921.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| ALGERIE 8
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/295979.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| ALGERIE 9  (El barlamaniya) 
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/405585.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| ENNAHAR TV
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/1670.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| ECHOUROUK TV
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/327315.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| ECHOROUK NEWS
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/1684.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| EL HEDDAF TV
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/1669.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| SPORT PLUS HD
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/405593.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| AL 24 NEWS
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/295221.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| ELWATANIA TV
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/295982.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| AL MAGHARIBIA TV
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/5033.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| NATV قناة شمال أفريقيا
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/429923.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| EL DJAZAIR N1
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/216705.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| ONE TV
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/404537.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| SAMIRA TV
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/327316.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| ZAHRA TV
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/296400.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| EL BILAD TV
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/351100.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| BERBERE TV
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/1678.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| BAHIA TV
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/1680.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| EL FADJR TV
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/7768.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| EL HAYAT TV ALGERIE
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/296408.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| ALGERIAN 4 KIDS
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/404538.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",|DZ| AMOU YAZID TV
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/409228.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",ASHARQ DOCUMENTARY
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/351331.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",ASHARQ DISCOVERY
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/352371.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",DAR SAD دار السد
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/439077.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",AL MOUHADJER المهاجر
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/439078.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",S01 Al-Berani - البراني
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/439079.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",S02 Al-Berani - البراني
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/439082.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",S01 Al-Rebaa - الرباعة
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/409976.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",S02 Al-Rebaa - الرباعة
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/439081.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",Djemai Familly - جمعي فاميلي
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/439429.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",DIGOURDI ديقوردي
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/439074.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",S01 El Batha - البطحة
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/409972.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",S02 El Batha - البطحة
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/409973.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",Sultan Achour 10 | S01
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/404656.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",Sultan Achour 10 | S02
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/404657.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",Sultan Achour 10 | S03
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/404658.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",Bouzid Days بوزيد دايز
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/409996.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",BENI GELLAL بني قلال
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/439075.m3u8
-#EXTINF:-1 group-title="ALGERIE | OTT",بوعلام 100 problèmes
-http://fr.magtr.cc:8080/live/1244668849566168/1244668849566168/439076.m3u8
 #EXTINF:-1 tvg-id="AL24News.dz@SD" tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="News",AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
 #EXTINF:-1 tvg-id="AmouYazidTV.dz@SD" tvg-logo="https://i.imgur.com/L8UPGPC.png" group-title="Kids",Amou Yazid TV (576p)
@@ -149,7 +54,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8 
 #EXTINF:-1 tvg-id="KTVAlQurain.kw@SD" tvg-logo="https://i.imgur.com/naVEZtj.png" group-title="Religious",KTV Al Qurain (1080p) 
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8 
- #EXTINF:-1 tvg-id="KTVArabe.kw@SD" tvg-logo="https://i.imgur.com/jg3VAxO.png" group-title="Culture",KTV Arabe (1080p) 
+#EXTINF:-1 tvg-id="KTVArabe.kw@SD" tvg-logo="https://i.imgur.com/jg3VAxO.png" group-title="Culture",KTV Arabe (1080p) 
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8 
 #EXTINF:-1 tvg-id="KTVEthraa.kw@SD" tvg-logo="https://i.imgur.com/hqEbc49.png" group-title="Religious",KTV Ethraa (1080p) 
 https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
@@ -249,7 +154,15 @@ https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8 #EXTINF:-1 tvg-id="FujairahTV.ae@SD" tvg-logo="https://i.imgur.com/D2tOhbE.png" group-title="Entertainment",Fujairah TV (720p) 
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8  
 #EXTINF:-1 tvg-id="AmmanTV.jo@SD" tvg-logo="https://i.imgur.com/5l7kw0b.png" group-title="General",Amman TV (720p) 
-https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8 
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:- tvg-id="JORDAN 1",JORDAN 1 DZIPTV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:- tvg-id="ROYA comidie",ROYA COMIDY DZIPTV
+https://fast.kwikmotion.com/roya/comedy/playlist.m3u8
+#EXTINF:- tvg-id="ROYA",ROYA KIDS DZIPTV
+https://fast.kwikmotion.com/roya/kids/playlist.m3u8
+#EXTINF:- tvg:-id="ROYA",ROYA JORDAN DZIPTV
+https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DubaiTVInternational.ae@SD" tvg-logo="https://i.imgur.com/UMmbyHv.png" group-title="General",Dubai TV International (1080p) 
 http://185.9.2.18/chid_139/index.m3u8 
 
@@ -607,9 +520,9 @@ https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashoottt
 https://s778800.ai.studio/api/proxy-stream?url=https%3A%2F%2Flmvibb.yallashootttv.com%2Fhls%2Fch5%2Flive%2Findex.m3u8
 
 #EXTINF:-1 group-title="|AR| BEIN SPORTS",DZIPV - ALWAN SPORT 1 HD
-https://wqdfwqq.s3.us-east-2.amazonaws.com/bein1/720p/manifest.m3u8
+http://ntr.paixif.com/live/3IZXQ6YC25/Z847VZAF/1276540.m3u8
 #EXTINF:-1 group-title="|AR| ALWAN SPORT",DZIPTV - ALWAN SPORT 2 HD
-https://sweet-cell-8a78.yusf-dara1000.workers.dev/proxy-m3u8?url=https%3A%2F%2Fvsd115.okcdn.ru%2Fhls%2F19863645129401.m3u8%2Fsig%2FEi1e92SDPng%2Fexpires%2F1793039523993%2FsrcIp%2F104.22.23.6%2Furls%2F185.226.55.69%2FclientType%2F0%2FsrcAg%2FWEBKIT%2Fmid%2F17426016902841%2F19863645129401_medium%2Findex.m3u8
+https://live-tv-116849026166.europe-west1.run.app/api/stream-proxy?url=https%3A%2F%2Fxtvibbbbbbb.kora-live-live.info%2Fhls%2Fch2%2Flive%2Findex.m3u8
 #EXTINF:-1 group-title="|AR| ALWAN SPORT",DZIPTV - ALWAN SPORT 3 HD
 https://sweet-cell-8a78.yusf-dara1000.workers.dev/proxy-m3u8?url=https%3A%2F%2Fvsd115.okcdn.ru%2Fhls%2F19818089482937.m3u8%2Fsig%2FHRJe_S5dkwk%2Fexpires%2F1793039607291%2FsrcIp%2F188.114.111.241%2Furls%2F176.112.172.72%2FclientType%2F0%2FsrcAg%2FWEBKIT%2Fmid%2F17399314718393%2F19818089482937_medium%2Findex.m3u8
 #EXTINF:-1 group-title="|AR| ALWAN SPORT",DZIPTV- ALWAN SPORT 4 HD
