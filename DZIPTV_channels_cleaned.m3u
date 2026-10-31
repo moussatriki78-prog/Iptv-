@@ -164,7 +164,15 @@ https://fast.kwikmotion.com/roya/kids/playlist.m3u8
 #EXTINF:- tvg:-id="ROYA",ROYA JORDAN DZIPTV
 https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DubaiTVInternational.ae@SD" tvg-logo="https://i.imgur.com/UMmbyHv.png" group-title="General",Dubai TV International (1080p) 
-http://185.9.2.18/chid_139/index.m3u8 
+http://185.9.2.18/chid_139/index.m3u8
+#EXTINF:-1 tvg-id="LBCInternational.lb@SD" tvg-logo="https://i.imgur.com/h26xtUv.png" group-title="General",LBC International (1080p) 
+http://185.9.2.18/chid_521/index.m3u8 
+#EXTINF:- tvg-id="CBC",CBC DZIPTV
+https://fastly.live.brightcove.com/1843521364865282260/eu-central-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXltc3VjLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1MjEzNjQ4NjUyODIyNjAifQ.0dAr9XfheySFlNSKyHmeaasEMRIr-eZhJXZkoB1nzu4/playlist-hls.m3u8
+#EXTINF:- tvg-id="ON TV",ON-TV DZIPTV
+https://fastly.live.brightcove.com/1843587421941170322/eu-west-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZGd4MWQ4LmVncmVzcy5mZDJ2eHIiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1ODc0MjE5NDExNzAzMjIifQ.r6YCffy47zkO1b8ng0w4Cxe8QVIsrat2RiuQrGYemyk/chunklist_hls1080p.m3u8
+#EXTINF:- tvg-id="TEN",TEN DZIPTV
+https://tgn.bozztv.com/gin-36bay3/ga-tentv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA1OjQxOjQ1IFBNJmhhc2hfdmFsdWU9RGUwWXl3dzRZeGI2Tml4blFnOG90dz09JnZhbGlkbWludXRlcz0xNDQ1JnN0cm1fbGVuPTE5
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Al_Arabiya_logo.svg/512px-Al_Arabiya_logo.svg.png" tvg-id=",alabia",alabia
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
